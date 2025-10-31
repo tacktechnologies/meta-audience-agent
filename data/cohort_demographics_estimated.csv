@@ -1,0 +1,1753 @@
+Cohort,Male_Profile,Female_Profile,Profile_1624,Profile_2534,Profile_3544,Profile_4554,Profile_5564,Profile_65,ABC1_Profile,C2DE_Profile
+sedan owners,50,50,10,20,20,20,15,15,60,40
+station wagon owners,50,50,5,10,15,20,25,25,60,40
+suv owners,60,40,5,15,20,25,20,15,65,35
+new baby preppers- feeding,40,60,5,40,35,15,5,0,60,40
+child fashion,50,50,5,20,35,20,15,5,60,40
+safety-first drivers,40,60,10,15,20,20,20,15,60,40
+hair style prioritisers,40,60,20,30,20,15,10,5,60,40
+shaving,85,15,20,30,20,15,10,5,60,40
+image conscious- spas & beauty,30,70,10,20,20,20,15,15,60,40
+tanning fans,40,60,20,30,20,15,10,5,60,40
+tattoo fans,50,50,20,30,20,15,10,5,60,40
+job hunters- career change,50,50,10,30,25,20,10,5,60,40
+dieters- keto,40,60,10,20,30,20,15,5,60,40
+dieters- kombucha,40,60,10,20,20,20,20,10,60,40
+dieters- paleo,50,50,10,20,25,20,15,10,60,40
+needing business advice- business education,60,40,10,30,25,20,10,5,60,40
+education comes first - early childhood education,30,70,10,20,25,20,15,10,60,40
+school educators & administrators,30,70,5,20,20,25,20,10,60,40
+future engineers and coders,70,30,40,30,15,10,5,0,60,40
+education comes first- test preparation & tutoring,45,55,20,25,20,15,10,10,60,40
+fostering families,40,60,5,15,30,25,15,10,60,40
+divorcees,48,52,1,10,20,25,25,19,60,40
+safety minded- internet safety,60,40,10,20,20,20,20,10,60,40
+progressive parents,40,60,5,20,35,25,10,5,60,40
+epic readers,45,55,10,20,20,20,15,15,60,40
+fable readers,40,60,10,20,20,20,15,15,60,40
+fairy tale readers,40,60,20,25,20,15,10,10,60,40
+fantasy books readers,45,55,20,30,20,15,10,5,60,40
+gothic readers,40,60,20,30,20,15,10,5,60,40
+mystery readers,40,60,10,15,20,20,20,15,60,40
+mythology readers,50,50,20,25,20,15,10,10,60,40
+satire readers,60,40,20,30,20,15,10,5,60,40
+short story readers,40,60,10,20,20,15,20,15,60,40
+spy fiction readers,60,40,10,20,20,20,20,10,60,40
+superhero fiction readers,60,40,25,30,20,15,7,3,60,40
+investment enthusiasts- hedge funds,75,25,5,15,20,25,20,15,85,15
+investment enthusiasts,70,30,10,20,25,20,15,10,60,40
+investment enthusiasts- mutual funds,60,40,5,20,25,20,20,10,75,25
+investment enthusiasts - options,70,30,10,20,25,20,15,10,60,40
+cooking enthusiasts- cookware & bakeware,40,60,10,20,20,20,15,15,60,40
+keen bbqers,70,30,10,20,25,20,15,10,60,40
+on the shopping list- bbq products,70,30,10,20,25,20,15,10,60,40
+on the shopping list- biscuit,50,50,10,20,20,20,15,15,60,40
+on the shopping list- bread,50,50,10,20,20,20,15,15,60,40
+on the shopping list- brownies,40,60,20,25,20,15,10,10,60,40
+on the shopping list- cakes,40,60,10,20,20,20,15,15,60,40
+on the shopping list- candy & sweets,40,60,20,30,20,15,10,5,60,40
+on the shopping list- pizza,50,50,20,30,20,15,10,5,60,40
+on the shopping list- cheese & cheesemaking,40,60,10,20,20,20,15,15,60,40
+chinese cuisine fans,50,50,15,20,20,15,15,15,60,40
+on the shopping list- chocolate,40,60,20,25,20,15,10,10,60,40
+on the shopping list- coffee,45,55,10,20,20,15,20,15,60,40
+on the shopping list- coffee roasting,60,40,10,20,20,20,20,10,60,40
+on the shopping list- condiments & sauces,50,50,10,20,20,20,15,15,60,40
+on the shopping list- cookies,45,55,20,25,20,15,10,10,60,40
+on the shopping list- crackers,45,55,10,20,20,20,15,15,60,40
+on the shopping list- desserts,40,60,20,30,20,15,10,5,60,40
+restaurant enthusiasts,50,50,15,25,20,15,15,10,60,40
+on the shopping list- energy drinks,65,35,30,25,20,15,7,3,50,50
+fast food fans,50,50,20,25,20,15,10,10,50,50
+french cuisine fans,40,60,10,20,20,20,15,15,60,40
+german cuisine fans,50,50,10,20,20,20,15,15,60,40
+greek cuisine fans,50,50,10,20,20,20,15,15,60,40
+indian cuisine fans,50,50,15,20,20,15,15,15,60,40
+italian cuisine fans,50,50,15,20,20,15,15,15,60,40
+japanese cuisine fans,50,50,20,30,20,15,10,5,60,40
+on the shopping list- juice,45,55,10,20,20,20,15,15,60,40
+korean cuisine fans,40,60,20,30,20,15,10,5,60,40
+latin american cuisine fans,50,50,15,20,20,15,15,15,60,40
+mexican cuisine fans,50,50,20,25,20,15,10,10,60,40
+middle eastern cuisine fans,50,50,15,20,20,15,15,15,60,40
+on the shopping list- organic food,40,60,10,20,20,20,15,15,60,40
+on the shopping list- pastry,40,60,10,20,20,15,20,15,60,40
+on the shopping list- seafood,50,50,10,20,20,20,15,15,60,40
+on the shopping list- soft drinks,50,50,20,20,20,15,15,10,60,40
+spanish cuisine fans,50,50,15,20,20,15,15,15,60,40
+on the shopping list- spirits,60,40,10,20,25,20,15,10,60,40
+on the shopping list- tarts & sweet treats,40,60,10,20,20,20,15,15,60,40
+on the shopping list- tea,40,60,10,20,20,20,15,15,60,40
+thai cuisine fans,50,50,20,30,20,15,10,5,60,40
+special day preparation- fireworks,60,40,20,30,20,15,10,5,50,50
+special day preparation- flowers,40,60,10,20,20,20,15,15,60,40
+special day preparation- party planning,40,60,10,20,20,20,15,15,60,40
+special day preparation- wedding & engagement rings,40,60,10,40,25,15,7,3,60,40
+fitness fans- activity tracker,50,50,20,30,20,15,10,5,60,40
+healthy living- holistic health,40,60,10,20,20,20,15,15,60,40
+healthy living- alternative medicine,40,60,10,20,20,20,15,15,60,40
+fitness fans- exercise equipment,60,40,10,20,25,20,15,10,60,40
+healthy living- nutrition,40,60,10,20,20,20,20,10,60,40
+healthy living- physical therapy,40,60,10,20,20,20,15,15,60,40
+dieters- weight loss,30,70,10,20,25,20,15,10,60,40
+healthy living- female health,5,95,10,20,25,20,15,10,60,40
+home comfort prioritisers- air conditioners,60,40,10,20,20,20,20,10,60,40
+home comfort prioritisers- air quality & defusers,40,60,10,20,20,20,15,15,60,40
+garden living enthusiasts- furniture,40,60,5,15,20,20,20,20,60,40
+safety minded- home security,60,40,5,10,15,20,25,25,60,40
+gardening fans- hands on landscapers,60,40,5,10,15,20,25,25,60,40
+gardening fans- lawn care,60,40,5,10,15,20,25,25,60,40
+home design fans- paint,40,60,10,20,20,20,20,10,60,40
+rest and relaxation prioritisers- pools and spas,40,60,10,20,20,20,20,10,60,40
+smart home enthusiasts,70,30,10,30,25,20,10,5,60,40
+home renovators- doors and windows,60,40,5,15,20,25,20,15,60,40
+garden living enthusiasts- landscaping,40,60,5,10,15,20,25,25,60,40
+home upgraders- microwaves,50,50,10,20,20,20,20,10,60,40
+home design fans- bedding,40,60,10,20,20,20,15,15,60,40
+bedroom upgraders- bedroom furniture,40,60,10,20,20,20,20,10,60,40
+bedroom upgraders- beds & bed frames,40,60,10,20,20,20,20,10,60,40
+coffee connoisseurs- coffee maker & espresso machine accessories,60,40,10,20,25,20,15,10,75,25
+home design fans- fireplaces,40,60,5,15,20,25,20,15,60,40
+home design fans- home office,40,60,10,20,25,20,15,10,60,40
+home tech enthusiasts- hydroponics,70,30,10,30,25,20,10,5,60,40
+kitchen upgraders- kitchen & bathroom cabinets,40,60,5,15,20,25,20,15,60,40
+home design fans- linens,30,70,10,20,20,20,15,15,60,40
+cooking enthusiasts- mixer & blender accessories,40,60,10,20,20,20,15,15,60,40
+home design fans- nursery,30,70,5,35,30,15,10,5,60,40
+home design fans- tableware,30,70,10,20,20,20,15,15,60,40
+reviewing outgoings- cable & satellite tv providers,50,50,10,20,20,20,15,15,60,40
+cinema goers & film lovers- dvds and videos,60,40,10,20,20,20,15,15,60,40
+reading fans,40,60,10,20,20,15,20,15,60,40
+health concerned- cancer,45,55,5,10,15,20,25,25,60,40
+health concerned- dental health,40,60,10,20,20,20,15,15,60,40
+health concerned- diabetes,50,50,5,10,15,20,25,25,60,40
+health concerned- throat,45,55,10,20,20,20,15,15,60,40
+health concerned- endocrine,40,60,5,10,15,20,25,25,60,40
+style minded- eyeglasses & contact lenses,40,60,20,30,20,15,10,5,60,40
+glasses wearers,50,50,15,20,20,15,15,15,60,40
+health concerned- first aid,40,60,10,20,20,20,15,15,60,40
+health concerned- pregnancy,10,90,20,40,30,5,3,2,60,40
+health concerned- sexual health,50,50,20,25,20,15,10,10,60,40
+health concerned- reproductive health,40,60,10,20,20,20,20,10,60,40
+acura fans,70,30,5,15,20,25,20,15,60,40
+alfa romeo fans,85,15,5,20,25,20,20,10,75,25
+audi fans,75,25,10,20,25,20,15,10,60,40
+switzerland interested,50,50,20,25,20,15,10,10,60,40
+bmw fans,80,20,10,20,25,20,15,10,75,25
+buick fans,70,30,5,10,15,20,25,25,60,40
+cadillac fans,70,30,5,10,15,20,25,25,60,40
+chevrolet fans,70,30,10,20,25,20,15,10,60,40
+chrysler fans,70,30,10,20,20,20,20,10,60,40
+citroen fans,80,20,10,20,20,20,20,10,60,40
+dodge fans,80,20,10,20,25,20,15,10,50,50
+fiat fans,60,40,10,20,20,20,20,10,60,40
+ford fans,70,30,10,20,20,20,20,10,60,40
+honda fans,60,40,10,20,25,20,15,10,60,40
+hyundai fans,60,40,10,20,25,20,15,10,60,40
+infiniti fans,70,30,5,15,25,25,20,10,60,40
+isuzu fans,80,20,10,20,25,20,15,10,60,40
+jaguar fans,80,20,5,15,20,25,20,15,75,25
+jeep fans,70,30,10,20,30,20,15,5,60,40
+kia fans,60,40,10,20,25,20,15,10,60,40
+land rover fans,70,30,5,15,20,25,20,15,60,40
+lexus fans,70,30,5,15,20,25,20,15,75,25
+lincoln fans,70,30,5,10,15,20,25,25,60,40
+maserati fans,85,15,5,15,25,25,20,10,80,20
+mazda fans,60,40,10,20,25,20,15,10,60,40
+mercedes-benz fans,70,30,5,15,20,25,20,15,80,20
+mini fans,60,40,10,20,25,20,15,10,65,35
+mitsubishi fans,70,30,10,20,25,20,15,10,60,40
+nissan fans,70,30,10,20,25,20,15,10,60,40
+peugeot fans,70,30,10,20,25,20,15,10,60,40
+porsche fans,85,15,5,15,20,25,20,15,80,20
+ram trucks fans,85,15,10,20,25,20,15,10,60,40
+renault fans,70,30,10,20,25,20,15,10,60,40
+scion fans,70,30,20,30,20,15,10,5,60,40
+seat fans,70,30,10,20,30,20,10,10,60,40
+subaru fans,70,30,10,20,30,20,10,10,60,40
+suzuki fans,70,30,10,20,25,20,15,10,60,40
+tesla fans,70,30,15,30,25,15,10,5,60,40
+biography readers,40,60,10,15,20,20,20,15,60,40
+cookbook readers,30,70,5,15,20,25,20,15,60,40
+essay readers,45,55,10,20,20,15,20,15,60,40
+infotainment readers,50,50,20,25,20,15,10,10,60,40
+memoir readers,40,60,10,15,20,20,20,15,60,40
+pursuing personal development- self improvement,50,50,20,30,20,15,10,5,60,40
+pursuing personal development- textbooks,40,60,10,20,20,20,20,10,60,40
+holiday planners- travel books,40,60,10,20,20,20,15,15,60,40
+office managers- office supplies,40,60,5,20,30,25,15,5,60,40
+style minded- costumes,40,60,20,30,20,15,10,5,60,40
+style minded- dresses,10,90,20,30,20,15,10,5,60,40
+style minded- sunglasses,50,50,20,30,20,15,10,5,60,40
+pet dog owners- dog training,40,60,10,20,20,20,15,15,60,40
+pet dog owners- dog walking,40,60,10,20,20,20,15,15,60,40
+potential pet adopters,40,60,20,30,20,15,10,5,60,40
+pet owners- finding the right food,40,60,10,20,20,20,15,15,60,40
+pet owners- in need of sitters,40,60,10,20,20,20,20,10,60,40
+pet owners,45,55,15,20,20,15,15,15,60,40
+home movers- moving into rental,50,50,20,30,20,15,10,5,60,40
+golf enthusiasts,70,30,5,10,15,20,25,25,60,40
+sports players- equipment,70,30,20,30,20,15,10,5,60,40
+lottery players,60,40,10,15,20,20,20,15,50,50
+aspiring musicians- instruments,60,40,30,25,20,10,10,5,50,50
+nike fans,60,40,30,25,20,15,7,3,60,40
+louis vuitton fans,40,60,20,30,20,15,10,5,75,25
+hermes (fashion) fans,35,65,10,20,25,20,15,10,80,20
+gucci fans,40,60,20,30,20,15,10,5,80,20
+cartier fans,40,60,10,20,25,20,15,10,80,20
+lululemon fans,30,70,20,30,25,15,7,3,60,40
+moncler fans,60,40,10,30,25,20,10,5,80,20
+chanel fans,30,70,10,20,20,20,20,10,80,20
+rolex fans,70,30,5,15,20,25,20,15,80,20
+patek philippe fans,85,15,5,10,20,25,25,15,90,10
+prada fans,40,60,10,20,25,20,15,10,80,20
+chow tai fook fans,30,70,10,20,20,20,20,10,60,40
+swarovski fans,30,70,10,20,20,20,15,15,60,40
+burberry fans,40,60,20,30,20,15,10,5,75,25
+ralph lauren fans,40,60,10,20,20,20,20,10,80,20
+polo ralph lauren fans,60,40,10,20,25,20,15,10,75,25
+the north face fans,60,40,20,30,25,15,7,3,60,40
+levis fans,60,40,20,30,20,15,10,5,60,40
+next fans,40,60,20,30,20,15,10,5,60,40
+new balance fans,60,40,20,30,20,15,10,5,60,40
+michael kors fans,30,70,20,30,20,15,10,5,60,40
+skechers fans,40,60,20,30,20,15,10,5,60,40
+asos fans,40,60,30,35,20,10,4,1,60,40
+coach fans,30,70,10,30,25,20,10,5,75,25
+nordstrom fans,30,70,10,20,20,20,20,10,75,25
+c&a fans,40,60,20,30,20,15,10,5,60,40
+chopard fans,60,40,5,15,20,25,20,15,80,20
+dolce & gabbana fans,40,60,20,30,20,15,10,5,75,25
+christian louboutin fans,30,70,10,30,25,20,10,5,80,20
+omega fans,80,20,5,15,20,25,20,15,85,15
+foot locker fans,60,40,30,25,20,15,5,5,50,50
+ray-ban fans,60,40,20,30,20,15,10,5,60,40
+asics fans,60,40,20,30,25,15,7,3,65,35
+christian dior fans,30,70,10,20,20,20,15,15,80,20
+dior fans,30,70,10,20,20,20,20,10,80,20
+puma fans,60,40,30,25,20,15,5,5,60,40
+steve madden fans,30,70,20,30,20,15,10,5,60,40
+brunello cucinelli fans,40,60,5,15,20,25,20,15,80,20
+american eagle outfitters fans,40,60,35,30,15,10,5,5,60,40
+giorgio armani fans,40,60,10,20,20,20,20,10,80,20
+armani fans,40,60,10,20,20,20,20,10,80,20
+nine west fans,20,80,15,30,25,15,10,5,60,40
+fendi fans,40,60,10,20,25,20,15,10,80,20
+salvatore ferragamo fans,40,60,10,20,25,20,15,10,80,20
+hugo boss fans,60,40,15,30,25,15,10,5,75,25
+old navy fans,40,60,20,30,20,15,10,5,60,40
+primark fans,30,70,30,30,20,10,5,5,60,40
+max mara fans,20,80,10,20,25,20,15,10,75,25
+manolo blahnik fans,10,90,5,20,30,25,15,5,80,20
+audemars piguet fans,80,20,5,15,25,25,20,10,90,10
+diesel fans,85,15,10,20,25,20,15,10,50,50
+calvin klein fans,40,60,20,30,20,15,10,5,60,40
+net-a-porter fans,20,80,10,30,25,20,10,5,80,20
+furla fans,20,80,10,30,25,20,10,5,75,25
+gap fans,40,60,20,30,20,15,10,5,60,40
+longines fans,80,20,5,15,20,25,20,15,75,25
+forever 21 fans,20,80,50,30,10,5,3,2,60,40
+stuart weitzman fans,10,90,10,30,25,20,10,5,80,20
+sisley fans,10,90,20,30,20,15,10,5,60,40
+la liga fans,70,30,20,30,20,15,10,5,60,40
+lacrosse fans,60,40,20,30,20,15,10,5,60,40
+laser cutting innovators,70,30,10,20,30,20,15,5,60,40
+paintball players,85,15,30,35,20,10,4,1,60,40
+laser tag players,70,30,40,30,15,10,5,0,60,40
+lifelong learners,50,50,10,20,20,20,15,15,60,40
+leather artisans,60,40,10,20,20,20,20,10,60,40
+lego lovers,70,30,20,30,20,15,10,5,60,40
+sociology thinkers,50,50,10,20,20,20,15,15,60,40
+ligue 1 fans,70,30,20,30,20,15,10,5,60,40
+logistical business planners,60,40,5,20,30,25,15,5,80,20
+long-distance runners,60,40,10,20,25,20,15,10,60,40
+longboarding lovers,70,30,40,30,15,10,4,1,60,40
+magazine addicts,40,60,10,20,20,20,15,15,60,40
+mahjong players,40,60,10,15,20,20,20,15,60,40
+mlb fans,60,40,15,20,20,15,15,15,50,50
+mls fans,70,30,20,30,20,15,10,5,60,40
+manga fans,50,50,30,30,20,10,5,5,60,40
+martial arts devotees,70,30,20,30,20,15,10,5,60,40
+rest and relaxation prioritisers- massage,40,60,10,20,20,20,20,10,60,40
+mmos gamers,85,15,40,35,15,5,3,2,50,50
+materials engineers,70,30,10,20,25,20,15,10,60,40
+math lovers,60,40,20,30,20,15,10,5,60,40
+mechanical engineers,87,13,10,30,25,20,10,5,60,40
+car fixing & building enthusiasts,90,10,15,25,20,20,15,5,60,40
+medical science scholars,40,60,20,30,20,15,10,5,75,25
+pursuing personal development- meditation,40,60,10,20,20,20,15,15,60,40
+f1 fans,80,20,20,30,25,15,7,3,60,40
+metalwork masters,70,30,5,15,20,25,20,15,60,40
+pursuing personal development- mindfulness,40,60,10,20,20,20,15,15,60,40
+mini golf lovers,50,50,20,20,20,15,15,10,60,40
+aircraft modelers,85,15,10,15,20,25,20,10,60,40
+model united nations members,50,50,70,20,5,3,1,1,60,40
+motorcycle enthusiasts,85,15,10,20,25,20,15,10,60,40
+motor sports enthusiasts,85,15,15,30,25,15,10,5,60,40
+mountain biking fans,75,25,20,30,25,15,7,3,60,40
+mountain climbing buffs,70,30,10,20,30,20,15,5,60,40
+mountaineering experts,70,30,5,15,25,25,20,10,80,20
+cinema goers & film lovers- film lovers,50,50,20,30,20,15,10,5,60,40
+film collectors,70,30,10,20,20,20,15,15,60,40
+music fans,50,50,20,25,20,15,10,10,60,40
+experience seeker - music festivals,50,50,30,35,20,10,4,1,60,40
+music video fans,50,50,30,25,20,10,10,5,60,40
+nanotechnology experts,70,30,5,20,30,25,15,5,80,20
+nascar fans,75,25,10,20,25,20,15,10,50,50
+nba fans,70,30,25,30,20,15,7,3,60,40
+nfl fans,60,40,15,20,20,15,15,15,50,50
+nhl fans,60,40,20,25,20,15,10,10,50,50
+environmental advocates,45,55,20,25,20,15,10,10,60,40
+needlepoint crafters,20,80,5,10,15,20,25,25,60,40
+netball players,20,80,25,30,20,15,5,5,60,40
+daily newspaper readers,50,50,10,15,15,20,20,20,60,40
+nightlife fans,55,45,30,35,20,10,4,1,60,40
+nippon baseball fans,60,40,20,25,20,15,10,10,50,50
+non-fiction readers,50,50,10,15,20,20,20,15,60,40
+auto enthusiasts,85,15,10,20,30,20,10,10,60,40
+fitness fans- weightlifting,70,30,20,30,25,15,7,3,60,40
+online gamers,60,40,35,30,20,10,4,1,50,50
+poker players,85,15,20,30,25,15,7,3,60,40
+orienteering experts,60,40,15,25,20,20,15,5,60,40
+origami artists,40,60,20,25,20,15,10,10,60,40
+aspiring magicians,60,40,30,25,20,10,10,5,50,50
+pac 12 fans,60,40,20,30,20,15,10,5,60,40
+painting fans,40,60,10,20,20,20,15,15,60,40
+skydiving daredevils,70,30,20,30,25,15,7,3,60,40
+paragliding daredevils,70,30,20,30,25,15,7,3,60,40
+experience seeker - parties,50,50,30,35,20,10,5,0,60,40
+folk music fans,45,55,10,15,20,20,20,15,60,40
+luxury car buyers,60,40,5,15,20,25,20,15,85,15
+performance & luxury vehicle enthusiasts,85,15,10,20,25,20,15,10,80,20
+performing arts fans,40,60,10,20,20,20,15,15,60,40
+stamp collectors,70,30,5,10,15,20,25,25,60,40
+philosophy thinkers,60,40,20,30,20,15,10,5,60,40
+photography fans,50,50,10,20,20,20,15,15,60,40
+fitness fans- physical exercise,60,40,20,30,20,15,10,5,60,40
+physics buffs,70,30,20,30,20,15,10,5,60,40
+pickleball players,50,50,5,10,15,20,25,25,60,40
+fitness fans- pilates,25,75,10,30,25,20,10,5,60,40
+experience seeker - plays,40,60,10,20,20,20,15,15,60,40
+podcast junkies,50,50,20,30,20,15,10,5,60,40
+poetry readers,40,60,15,20,15,15,20,15,60,40
+pole dancing enthusiasts,30,70,20,30,25,15,7,3,60,40
+political thinkers,60,40,10,20,20,20,15,15,60,40
+pop music fans,45,55,20,30,20,15,10,5,60,40
+pop culture buffs,50,50,20,30,20,15,10,5,60,40
+pottery fans,30,70,10,20,20,20,15,15,60,40
+ceramic fans,35,65,10,15,20,20,20,15,60,40
+afl fans,60,40,20,25,20,15,10,10,50,50
+fitness fans- powerlifting,70,30,20,30,25,15,7,3,60,40
+premier league fans,70,30,20,30,20,15,10,5,60,40
+printing fans,60,40,10,20,20,20,15,15,60,40
+sophisticated marketers,60,40,5,20,30,25,15,5,80,20
+chemistry enthusiasts,60,40,20,30,20,15,10,5,60,40
+psychology minds,35,65,10,20,20,20,15,15,60,40
+public speakers,60,40,5,15,20,25,20,15,75,25
+puppetry artists,50,50,10,20,20,20,15,15,60,40
+puzzle gamers,45,55,20,25,20,15,10,10,60,40
+quilting experts,20,80,5,10,15,20,25,25,60,40
+puzzle hobbyists- quizzes,50,50,20,30,20,15,10,5,60,40
+pet rabbit owners,35,65,20,30,20,15,10,5,60,40
+racing game players,85,15,30,35,20,10,4,1,60,40
+racquetball players,60,40,20,30,20,15,10,5,60,40
+radio tuners,50,50,10,15,15,20,20,20,60,40
+radio-controlled toy collectors,85,15,20,30,25,15,7,3,60,40
+rafting adventurers,60,40,20,30,25,15,7,3,60,40
+model rail collectors,85,15,5,10,15,20,25,25,60,40
+apiring rappers,70,30,50,30,10,5,3,2,40,60
+capital raisers,60,40,5,20,25,20,20,10,80,20
+strategy gamers,85,15,30,35,20,10,4,1,60,40
+record collectors,60,40,10,20,20,20,15,15,60,40
+healthy living- reiki,30,70,10,20,20,20,15,15,60,40
+religious devotees,50,50,10,15,20,20,20,15,60,40
+pet reptile owners,60,40,20,30,20,15,10,5,50,50
+research devotees,55,45,10,25,20,15,20,10,75,25
+front of house retailers,40,60,20,30,20,15,10,5,60,40
+blues music fans,60,40,10,15,20,20,20,15,50,50
+r&b music fans,45,55,20,25,20,15,10,10,60,40
+robotics enthusiasts,75,25,30,35,20,10,4,1,60,40
+earth science devotees,60,40,15,20,20,15,15,15,60,40
+mineral collectors,60,40,10,15,20,20,20,15,60,40
+rock climbing buffs,60,40,20,30,25,15,7,3,60,40
+rock music fans,60,40,20,25,20,15,10,10,50,50
+classic rock fans,60,40,10,15,20,20,20,15,50,50
+rodeo devotees,60,40,10,20,20,20,20,10,50,50
+rpg gamers,60,40,30,35,20,10,4,1,50,50
+roller derby fans,40,60,20,30,20,15,10,5,60,40
+roller skating fans,40,60,20,30,20,15,10,5,60,40
+rugby league fans,70,30,15,20,20,15,15,15,50,50
+rugby world cup fans,70,30,10,20,25,20,15,10,60,40
+rugby fans,70,30,20,25,20,15,10,10,60,40
+bridge players,45,55,5,10,15,20,25,25,60,40
+fitness fans- running,50,50,20,30,20,15,10,5,60,40
+sailing enthusiasts,70,30,10,15,20,20,20,15,60,40
+scouting members,50,50,20,20,20,15,15,10,60,40
+scrapbooking hobbyists,20,80,10,20,20,20,20,10,60,40
+screenwriters,60,40,10,20,25,20,15,10,75,25
+diving devotees,60,40,10,20,25,20,15,10,65,35
+scuba diving enthusiasts,65,35,10,20,25,20,15,10,60,40
+sculpting fans,50,50,10,20,20,20,15,15,60,40
+brand search sophisticates- seo,60,40,10,30,25,20,10,5,75,25
+serie a fans,70,30,20,30,20,15,10,5,50,50
+sewing specialists,20,80,10,20,20,20,15,15,60,40
+shooting sport enthusiasts,85,15,10,20,20,20,15,15,60,40
+shuffleboard players,60,40,5,10,15,20,25,25,60,40
+religious devotees- sikhism,55,45,20,25,20,15,10,10,50,50
+simulation gamers,60,40,20,30,20,15,10,5,60,40
+aspiring singers,40,60,30,30,20,10,5,5,60,40
+sketching fans,40,60,20,30,20,15,10,5,60,40
+skiing lovers,60,40,10,20,25,20,15,10,60,40
+slacklining enthusiasts,60,40,30,35,20,10,3,2,50,50
+sledding fans,50,50,20,20,20,15,15,10,60,40
+sled dog racing fans,60,40,10,20,25,20,15,10,50,50
+experience seeker - online casinos & gambling,65,35,10,20,25,20,15,10,50,50
+snorkelling fans,50,50,20,25,20,15,10,10,60,40
+snowboarding aficionados,70,30,30,40,20,7,2,1,60,40
+snowshoeing enthusiasts,50,50,10,20,20,20,20,10,60,40
+opera fans,40,60,5,10,15,20,25,25,75,25
+soap opera fans,30,70,10,15,20,20,20,15,60,40
+softball fans,40,60,20,25,20,15,10,10,60,40
+soul music fans,45,55,10,15,20,20,20,15,60,40
+audio producers,70,30,10,30,25,20,10,5,60,40
+bicycle upgraders,70,30,10,20,30,20,15,5,60,40
+speed skating lovers,60,40,20,30,20,15,10,5,60,40
+religious devotees- spirituality,40,60,10,20,20,20,15,15,60,40
+sports fans,60,40,20,25,20,15,10,10,50,50
+sports gamers,85,15,35,30,20,10,4,1,60,40
+sports memorabilia collectors,80,20,10,20,25,20,15,10,60,40
+sports science enthusiasts,70,30,20,30,20,15,10,5,60,40
+squash players,70,30,10,20,25,20,15,10,60,40
+microbiology buffs,40,60,20,30,20,15,10,5,60,40
+streaming media connoisseurs,50,50,25,30,20,10,10,5,60,40
+street style,60,40,35,30,20,10,4,1,60,40
+puzzle hobbyists- sudoku,50,50,10,15,20,20,20,15,60,40
+survival skills practitioners,70,30,10,20,25,20,15,10,60,40
+sustainability champions,40,60,20,30,20,15,10,5,75,25
+swimming devotees,50,50,20,20,20,15,15,10,60,40
+tai chi practitioners,40,60,10,15,20,20,20,15,60,40
+table football players,70,30,20,30,20,15,10,5,60,40
+table tennis enthusiasts,60,40,20,30,20,15,10,5,60,40
+taekwondo aficionados,60,40,30,25,20,15,7,3,60,40
+tapestry creators,30,70,10,20,20,20,15,15,60,40
+biology buffs,45,55,20,25,20,15,10,10,60,40
+home tech enthusiasts- televisions,70,30,10,20,30,20,10,10,60,40
+tennis lovers,50,50,10,20,20,20,15,15,60,40
+experience seeker - theatre & musical shows,40,60,10,20,20,20,15,15,60,40
+champions league fans,70,30,20,30,20,15,10,5,60,40
+euro 2020 fans,60,40,20,30,20,15,10,5,50,50
+europa league fans,70,30,20,30,20,15,10,5,60,40
+entrepreneurs- venture capital stage,70,30,5,30,35,20,7,3,85,15
+dedicated walkers,40,60,10,15,20,20,20,15,60,40
+web design aficionados- site development,70,30,20,30,20,15,10,5,60,40
+fitness fans- weight training,70,30,20,30,25,15,5,5,60,40
+puzzle hobbyists- word games,40,60,10,20,20,15,20,15,60,40
+mystery film fans,50,50,15,20,20,15,15,15,60,40
+crime film fans,60,40,10,20,20,20,15,15,50,50
+documentary film fans,50,50,10,20,20,20,15,15,60,40
+documentary fans,50,50,10,15,20,20,20,15,60,40
+fantasy film fans,50,50,20,30,20,15,10,5,60,40
+horror film fans,50,50,20,30,20,15,10,5,60,40
+horror readers,50,50,20,25,20,15,10,10,60,40
+musical film fans,40,60,10,20,15,15,20,20,60,40
+romance film fans,40,60,20,25,20,15,10,10,60,40
+romance readers,20,80,10,20,20,20,15,15,60,40
+science fiction readers,60,40,10,20,20,20,15,15,60,40
+sci-fi  movies,60,40,20,30,20,15,10,5,50,50
+korean film fans,40,60,20,30,20,15,10,5,60,40
+thriller film fans,55,45,20,30,20,15,10,5,60,40
+realistic fiction readers,40,60,10,20,20,20,15,15,60,40
+suspense fans,40,60,10,20,20,20,15,15,60,40
+alternative music listeners,50,50,30,25,20,10,10,5,60,40
+country music fans,45,55,10,15,20,20,20,15,60,40
+heavy metal music fans,70,30,20,30,20,15,10,5,50,50
+public radio supporters,45,55,5,10,15,20,25,25,60,40
+news radio followers,60,40,5,10,15,20,25,25,60,40
+soft rock listeners,40,60,10,15,20,20,20,15,60,40
+sports radio fans,75,25,10,20,25,20,15,10,60,40
+talk radio enthusiasts,60,40,5,10,15,20,25,25,60,40
+chat show fans,40,60,10,15,20,20,20,15,60,40
+comedy fans,50,50,20,25,20,15,10,10,60,40
+game show fans,50,50,10,15,20,20,20,15,60,40
+reality show fans,40,60,20,30,20,15,10,5,60,40
+car performance upgraders- engines,85,15,10,30,25,20,10,5,60,40
+car design fixers & upgraders- car parts,85,15,10,30,25,20,10,5,60,40
+classic car buyers,85,15,5,10,15,20,25,25,60,40
+concept car buyers,80,20,5,20,30,25,15,5,75,25
+scooter buyers,60,40,25,30,20,10,10,5,60,40
+convertible owners,60,40,5,15,20,25,20,15,65,35
+crossover owners,50,50,10,20,20,20,15,15,60,40
+hatchback owners,60,40,20,30,20,15,10,5,60,40
+pickup truck owners,85,15,10,20,25,20,15,10,60,40
+skilled accountants,50,50,5,20,25,20,20,10,75,25
+needing business advice- management consulting,60,40,5,20,30,25,15,5,75,25
+financial planners,60,40,5,15,20,25,20,15,75,25
+aspiring actors,50,50,30,40,15,10,3,2,60,40
+action figure collectors,80,20,20,30,25,15,7,3,60,40
+billiards players,70,30,10,20,20,20,15,15,60,40
+action gamers,70,30,30,35,20,10,4,1,60,40
+action film fans,60,40,20,30,20,15,10,5,50,50
+animation fans,60,40,30,30,20,10,5,5,50,50
+jewellery makers,30,70,10,20,20,20,20,10,60,40
+religious devotees- islam,50,50,20,20,20,15,15,10,40,60
+fragrance collectors,40,60,10,20,20,20,15,15,60,40
+aspiring guitarists,60,40,30,25,20,10,10,5,60,40
+adidas fans,60,40,30,30,20,10,5,5,60,40
+aspiring composers,60,40,25,30,20,10,10,5,60,40
+advertising experts,50,50,10,30,25,20,10,5,75,25
+economics thinkers,70,30,10,20,20,20,20,10,60,40
+aerospace enthusiasts,85,15,20,30,20,15,10,5,60,40
+frisbee players,60,40,30,35,20,10,4,1,60,40
+religious sceptics,60,40,20,30,20,15,10,5,60,40
+surfing devotees,70,30,20,30,20,15,10,5,60,40
+american football fans,60,40,20,25,20,15,10,10,50,50
+amsterdam interested,50,50,20,30,20,15,10,5,60,40
+animated film fans,50,50,20,30,20,15,10,5,60,40
+baby & toddler fashion,10,90,10,30,30,20,5,5,60,40
+dental care prioritisers,45,55,10,20,20,20,15,15,60,40
+in the honeymoon period,50,50,30,35,20,10,4,1,60,40
+home design fans- lights & fixtures,40,60,10,20,20,20,20,10,60,40
+home design fans- living room furniture,40,60,10,20,20,20,15,15,60,40
+anime film fans,50,50,30,30,20,10,5,5,60,40
+home design fans- rugs & carpets,30,70,5,15,20,20,20,20,60,40
+style minded- luggage,40,60,10,20,20,20,15,15,60,40
+h&m fans,40,60,30,35,20,10,4,1,60,40
+archaeology buffs,60,40,10,15,20,20,20,15,60,40
+archery aficionados,60,40,10,20,20,20,20,10,60,40
+art fans,40,60,15,20,20,15,15,15,60,40
+hands-on diyers,60,40,10,20,20,20,20,10,60,40
+costa rica interested,50,50,20,30,20,15,10,5,60,40
+art and theatre fans,40,60,10,20,20,20,15,15,60,40
+egypt interested,40,60,20,30,20,15,10,5,60,40
+greece interested,40,60,20,30,20,15,10,5,60,40
+guatemala interested,40,60,20,30,20,15,10,5,50,50
+art aficionados- learning more,40,60,10,20,20,20,15,15,75,25
+ireland interested,45,55,15,25,20,15,15,10,70,30
+israel interested,50,50,15,20,20,15,15,15,60,40
+malta interested,50,50,10,20,20,20,15,15,60,40
+romania interested,45,55,20,25,20,15,10,10,60,40
+singapore interested,50,50,20,30,20,15,10,5,60,40
+soccer fans,60,40,20,30,20,15,10,5,50,50
+south africa interested,50,50,20,30,20,15,10,5,60,40
+st. petersburg interested,45,55,15,25,20,15,15,10,70,30
+astrology believers,40,60,20,30,20,15,10,5,60,40
+sweden interested,50,50,20,30,20,15,10,5,60,40
+caribbean interested,40,60,10,20,20,20,15,15,60,40
+stargazing aficionados,60,40,10,20,20,20,15,15,60,40
+philippines interested,40,60,20,30,20,15,10,5,60,40
+uk interested,45,55,15,25,20,15,15,10,70,30
+aussie rules loyalists,60,40,20,25,20,15,10,10,50,50
+us interested,50,50,20,30,20,15,10,5,60,40
+us interested,50,50,20,30,20,15,10,5,60,40
+london interested,45,55,20,30,20,15,10,5,60,40
+auto racing enthusiasts,85,15,15,25,20,20,15,5,60,40
+exercise & fitness video gamers,85,15,40,35,15,5,3,2,60,40
+backgammon players,60,40,10,20,20,20,15,15,60,40
+summer olympics fans,50,50,15,20,20,15,15,15,60,40
+backpackers,60,40,30,40,15,10,4,1,50,50
+3d tech fans,70,30,20,30,20,15,10,5,60,40
+badminton buffs,50,50,20,25,20,15,10,10,60,40
+experience seeker - ballet,30,70,10,20,20,20,15,15,60,40
+barbershop music fans,60,40,5,10,15,20,25,25,60,40
+base jumping daredevils,85,15,20,40,25,10,5,0,60,40
+baseball fans,60,40,10,20,20,20,15,15,50,50
+basketball fans- attendees,60,40,20,30,20,15,10,5,60,40
+beach volleyball fans,50,50,20,30,20,15,10,5,60,40
+beatboxing fans,70,30,40,30,15,10,4,1,50,50
+beekeepers,60,40,5,10,15,20,25,25,50,50
+on the shopping list- beer,60,40,10,20,25,20,15,10,50,50
+beer tasting aficionados,70,30,10,20,30,20,15,5,60,40
+big 10 fans,60,40,20,25,20,15,10,10,60,40
+cinema goers & film lovers,50,50,20,25,20,15,10,10,60,40
+pet bird owners,40,60,10,20,20,20,15,15,60,40
+birdwatching buffs,40,60,5,10,15,20,25,25,60,40
+modern blacksmiths,85,15,10,20,25,20,15,10,60,40
+bloggers,40,60,20,30,20,15,10,5,60,40
+bmx enthusiasts,85,15,40,30,20,7,2,1,50,50
+board games players,50,50,20,30,20,15,10,5,60,40
+boating aficionados,70,30,5,10,15,20,25,25,60,40
+community activists,40,60,20,30,20,15,10,5,60,40
+skateboarding buffs,85,15,50,30,10,5,3,2,60,40
+fitness fans- bodybuilding,75,25,20,30,25,15,7,3,60,40
+plane enthusiasts,85,15,10,20,20,20,15,15,60,40
+bollywood film fans,40,60,20,30,20,15,10,5,60,40
+bonsai tree growers,60,40,5,15,20,20,20,20,60,40
+book club members,30,70,10,20,15,20,20,15,60,40
+book collectors,60,40,5,10,15,20,25,25,60,40
+botanists,40,60,10,20,20,20,20,10,60,40
+bowling players,60,40,10,20,20,20,15,15,50,50
+boxing aficionados,75,25,20,30,25,15,7,3,60,40
+jujitsu experts,70,30,20,30,25,15,7,3,60,40
+breakdance admirers,60,40,30,30,20,10,5,5,50,50
+browser games players,50,50,20,30,20,15,10,5,60,40
+religious devotees- buddhism,50,50,10,20,20,15,15,20,60,40
+bundesliga fans,70,30,20,30,20,15,10,5,60,40
+business strategists,60,40,5,20,30,25,15,5,80,20
+business planners- industrial products,70,30,5,20,30,25,15,5,60,40
+elegant calligraphers,40,60,10,20,20,20,15,15,60,40
+outdoor adventurers- campers,60,40,10,20,30,20,10,10,60,40
+outdoor adventurers,60,40,20,30,20,15,10,5,60,40
+canoeing enthusiasts,60,40,10,20,25,20,15,10,60,40
+canyoning adventurers,60,40,20,30,25,15,7,3,65,35
+car tuning enthusiasts,90,10,30,40,20,7,2,1,60,40
+card games players,50,50,20,20,20,15,15,10,60,40
+fitness fans- cardio,50,50,20,30,25,15,7,3,60,40
+pet cat owners,35,65,10,20,20,20,15,15,60,40
+doll collectors,30,70,10,15,20,20,20,15,60,40
+cave explorers,60,40,10,20,25,20,15,10,60,40
+celebrity followers,40,60,20,30,20,15,10,5,60,40
+charity givers,44,56,10,15,20,20,20,15,60,40
+checkers players,60,40,10,20,20,15,20,15,50,50
+cheerleading supporters,40,60,30,25,20,10,10,5,60,40
+chemical engineers,70,30,10,30,25,20,10,5,80,20
+chess players,85,15,20,30,20,15,10,5,60,40
+religious devotees- christianity,48,52,12,18,16,14,20,20,60,40
+civil engineers,70,30,10,20,25,20,15,10,60,40
+classical music fans,50,50,10,15,15,20,20,20,60,40
+clinical medicine scholars,50,50,10,20,20,20,20,10,60,40
+coin collectors,80,20,5,10,15,20,25,25,60,40
+ncaa baseball fans,60,40,20,25,20,15,10,10,60,40
+ncaa basketball devotees,60,40,20,25,20,15,10,10,50,50
+ncaa football lovers,70,30,20,30,20,15,10,5,60,40
+college sports fans,60,40,20,25,20,15,10,10,50,50
+combat sports admirers,75,25,20,30,25,15,7,3,50,50
+comedy film fans,50,50,20,25,20,15,10,10,60,40
+comic book collectors,75,25,20,30,25,15,7,3,60,40
+investment enthusiasts- commodities,70,30,5,15,20,25,20,15,60,40
+detailed model builders,85,15,10,20,25,20,15,10,60,40
+communication experts,50,50,10,20,20,20,20,10,60,40
+gardening fans- composting,40,60,10,20,20,20,15,15,60,40
+computer programmers,80,20,10,40,30,15,4,1,75,25
+experience seeker - concerts,50,50,30,30,20,10,5,5,60,40
+tech enthusiasts- consumer electronics,70,30,20,30,20,15,10,5,60,40
+crafts fans,30,70,10,20,20,20,15,15,60,40
+kung fu practitioners,70,30,20,30,20,15,10,5,60,40
+cribbage players,60,40,5,10,15,20,25,25,60,40
+cricket fans,70,30,20,25,20,15,10,10,60,40
+cricket world cup fans,70,30,20,30,20,15,10,5,60,40
+crochet creators,20,80,10,20,20,20,15,15,60,40
+cross-stitch enthusiasts,20,80,5,15,20,25,20,15,60,40
+puzzle hobbyists- crossword puzzles,40,60,5,10,15,20,25,25,60,40
+puzzle hobbyists- cryptography,60,40,10,20,20,20,15,15,60,40
+crystal collectors,40,60,10,20,20,20,15,15,60,40
+curling enthusiasts,50,50,10,20,20,20,15,15,60,40
+cycling fans,70,30,10,20,25,20,15,10,60,40
+dancing fans,40,60,20,30,20,15,10,5,60,40
+dance music fans,50,50,30,35,20,10,3,2,60,40
+experience seeker - dancehalls,40,60,20,30,20,15,10,5,60,40
+darts players,70,30,10,20,25,20,15,10,60,40
+debaters,50,50,30,25,20,10,10,5,60,40
+home design fans- decorating,30,70,10,20,20,20,15,15,60,40
+aspiring authors,40,60,20,30,20,15,10,5,60,40
+die-cast toy collectors,80,20,10,20,20,20,20,10,60,40
+digital art fans,50,50,20,30,20,15,10,5,60,40
+diorama creators,40,60,10,20,20,20,15,15,60,40
+social studies minds,50,50,10,20,20,20,15,15,60,40
+pet dog owners,48,52,12,20,18,16,17,17,60,40
+drama fans,40,60,15,20,20,15,15,15,60,40
+electronics buffs,70,30,20,30,20,15,10,5,60,40
+drama film fans,40,60,10,20,20,20,15,15,60,40
+drawing fans,40,60,20,30,20,15,10,5,60,40
+aspiring drummers,60,40,30,25,20,15,7,3,50,50
+reading fans- e-books,45,55,15,25,20,15,15,10,60,40
+e-sports gamers,85,15,50,30,10,5,3,2,60,40
+makeup & cosmetics fans,10,90,30,35,20,10,4,1,60,40
+image conscious- makeup & beauty,10,90,30,35,20,10,4,1,60,40
+electrical engineers,90,10,10,30,25,20,10,5,60,40
+electronic music fans,60,40,30,35,20,10,4,1,60,40
+embroidery experts,20,80,10,20,20,20,15,15,60,40
+artistic engravers,50,50,10,20,20,20,20,10,60,40
+entertainers,50,50,20,30,20,15,10,5,60,40
+aspiring entrepreneurs- business creation,60,40,20,30,25,15,7,3,65,35
+equestrian enthusiasts,40,60,10,20,20,20,20,10,60,40
+ethics thinkers,50,50,10,20,20,20,15,15,60,40
+extreme sports junkies,70,30,20,30,25,15,7,3,60,40
+fantasy sports players,80,20,20,30,25,15,7,3,60,40
+farmers,70,30,5,10,15,20,25,25,50,50
+farmers- moving site,70,30,5,15,20,25,20,15,40,60
+fencing buffs,60,40,20,30,20,15,10,5,60,40
+fiction readers,40,60,20,25,20,15,10,10,60,40
+field hockey fans,50,50,20,25,20,15,10,10,60,40
+fifa world cup fans,60,40,20,30,20,15,10,5,50,50
+figure skating aficionados,40,60,20,25,20,15,10,10,60,40
+fine art fans,40,60,10,20,15,15,20,20,60,40
+first-person shooter gamers,85,15,35,30,20,10,4,1,60,40
+pet fish owners,50,50,20,20,20,15,15,10,60,40
+fishing fans- equipment,80,20,10,20,25,20,15,10,60,40
+floral design aficionados,30,70,10,20,20,20,15,15,60,40
+foodies,40,60,10,20,20,20,20,10,60,40
+aspiring multi-linguists,50,50,20,30,20,15,10,5,60,40
+education enthusiasts,40,60,10,20,20,20,15,15,60,40
+investment enthusiasts- forex,70,30,10,30,25,20,10,5,60,40
+freelance writers,40,60,10,30,20,15,15,10,60,40
+freestyle football fans,70,30,35,30,20,10,3,2,50,50
+savvy savers,40,60,10,20,20,20,20,10,60,40
+fruit picking enthusiasts,50,50,10,20,20,20,15,15,60,40
+furniture builders,70,30,10,20,20,20,20,10,60,40
+online gamblers,65,35,20,30,20,15,10,5,60,40
+gardening fans,40,60,5,10,15,20,25,25,60,40
+reviewing outgoings- gas and electric,50,50,10,20,20,20,15,15,60,40
+family history buffs,40,60,5,10,15,20,25,25,60,40
+genetics scholars,50,50,20,30,20,15,10,5,80,20
+geography enthusiasts,60,40,20,25,20,15,10,10,60,40
+glassblowing gurus,60,40,5,15,20,25,20,15,60,40
+gospel music fans,40,60,10,15,20,20,20,15,60,40
+graffiti fans,60,40,30,35,20,10,4,1,50,50
+graphic design fans,50,50,20,30,20,15,10,5,60,40
+gymnastics admirers,40,60,20,25,20,15,10,10,60,40
+handball buffs,60,40,20,30,20,15,10,5,60,40
+fitness fans,50,50,20,30,20,15,10,5,60,40
+health science buffs,40,60,20,30,20,15,10,5,60,40
+healthy eaters,40,60,10,20,20,20,15,15,60,40
+shooter game players,85,15,35,30,20,10,4,1,50,50
+religious devotees- hinduism,50,50,15,20,20,15,15,15,60,40
+hip hop music fans,60,40,30,35,20,10,4,1,50,50
+healthy living- wellness,40,60,10,20,20,20,15,15,60,40
+history book readers,50,50,10,15,20,20,20,15,60,40
+history buffs,60,40,10,20,20,20,15,15,60,40
+home design fans,30,70,10,20,20,20,15,15,60,40
+hands on home renovators,70,30,10,20,30,20,15,5,60,40
+homebrewing experts,75,25,5,20,30,25,15,5,60,40
+horse racing lovers,70,30,10,15,20,20,20,15,60,40
+horse owners,40,60,10,20,20,20,15,15,60,40
+humor readers,50,50,20,20,15,15,15,15,60,40
+hunting aficionados,85,15,10,20,25,20,15,10,50,50
+ice hockey fans,60,40,20,25,20,15,10,10,50,50
+ice skating enthusiasts,40,60,20,25,20,15,10,10,60,40
+indie music fans,50,50,30,30,20,10,5,5,60,40
+home design fans- interior design,30,70,10,20,20,20,20,10,60,40
+aspiring inventors,70,30,10,30,25,20,10,5,60,40
+ipl fans,70,30,25,35,20,10,5,5,60,40
+jazz music fans,50,50,10,15,15,20,20,20,60,40
+puzzle hobbyists- jigsaw puzzles,40,60,10,20,20,20,15,15,60,40
+fitness fans- jogging,50,50,20,30,20,15,10,5,60,40
+religious devotees- judaism,50,50,10,15,20,20,20,15,60,40
+judo practitioners,65,35,30,25,20,15,7,3,50,50
+juggling enthusiasts,60,40,20,30,20,15,10,5,60,40
+fitness fans- jumping rope,50,50,20,30,25,15,5,5,60,40
+kabaddi enthusiasts,70,30,20,30,20,15,10,5,50,50
+karaoke singers,50,50,20,30,20,15,10,5,60,40
+karate aficionados,70,30,20,30,20,15,10,5,50,50
+karting enthusiasts,70,30,25,30,20,15,7,3,60,40
+kayaking devotees,60,40,10,20,25,20,15,10,60,40
+kite flying enthusiasts,60,40,20,25,20,15,10,10,60,40
+kitesurfing aficionados,70,30,20,30,25,15,7,3,60,40
+knitting virtuosos,20,80,5,10,15,20,25,25,60,40
+precision timepiece crafters,85,15,5,20,25,20,20,10,80,20
+lacoste fans,60,40,20,30,20,15,10,5,65,35
+g-star fans,60,40,30,35,20,10,4,1,60,40
+aldo fans,40,60,20,30,20,15,10,5,60,40
+oakley fans,70,30,20,30,25,15,7,3,60,40
+cole haan fans,40,60,10,20,25,20,15,10,60,40
+jimmy choo fans,20,80,10,30,25,20,10,5,75,25
+jaeger-le coultre fans,85,15,5,15,20,25,20,15,80,20
+fossil fans,40,60,20,30,20,15,10,5,60,40
+elie saab fans,20,80,20,30,20,15,10,5,75,25
+patagonia fans,60,40,20,30,25,15,5,5,60,40
+breguet fans,70,30,5,15,20,25,20,15,80,20
+tag heuer fans,70,30,5,15,20,25,20,15,80,20
+banana republic fans,40,60,10,30,25,20,10,5,75,25
+desigual fans,30,70,20,30,25,15,5,5,60,40
+swatch fans,50,50,20,30,20,15,10,5,60,40
+cavalli fans,40,60,10,20,30,20,10,10,80,20
+ted baker fans,40,60,20,30,20,15,10,5,75,25
+givenchy fans,40,60,20,30,20,15,10,5,75,25
+balenciaga fans,40,60,20,30,20,15,10,5,80,20
+oscar de la renta fans,30,70,10,20,20,20,20,10,80,20
+bvlgari fans,40,60,10,20,25,20,15,10,80,20
+kenzo fans,40,60,20,30,20,15,10,5,65,35
+moschino fans,40,60,20,30,20,15,10,5,75,25
+goyard fans,40,60,10,30,25,20,10,5,80,20
+kate spade fans,10,90,20,30,20,15,10,5,60,40
+ermenegildo zegna fans,80,20,5,15,25,25,20,10,85,15
+dkny fans,30,70,20,30,20,15,10,5,60,40
+moynat fans,40,60,10,20,25,20,15,10,80,20
+rimowa fans,50,50,10,20,30,20,10,10,80,20
+patou fans,30,70,10,20,20,20,20,10,80,20
+loro piana fans,40,60,5,15,20,25,20,15,80,20
+celine fans,30,70,10,30,25,20,10,5,80,20
+emilio pucci fans,20,80,10,20,25,20,15,10,80,20
+marc jacobs fans,30,70,20,30,20,15,10,5,60,40
+nicholas kirkwood fans,20,80,10,30,25,20,10,5,75,25
+bottega veneta fans,40,60,10,20,20,20,20,10,80,20
+miu miu fans,20,80,20,30,20,15,10,5,80,20
+marni fans,30,70,10,30,25,20,10,5,80,20
+missoni fans,30,70,10,20,20,20,20,10,80,20
+franck muller fans,70,30,5,15,20,25,20,15,80,20
+stella mccartney fans,20,80,15,30,25,15,10,5,75,25
+balmain fans,40,60,20,30,20,15,10,5,75,25
+jil sander fans,40,60,10,30,25,20,10,5,75,25
+fila fans,60,40,30,25,20,10,10,5,50,50
+thom browne fans,60,40,10,30,25,20,10,5,80,20
+paco rabanne fans,40,60,10,20,20,20,20,10,75,25
+margaret howell fans,40,60,10,20,25,20,15,10,75,25
+alexander mcqueen fans,40,60,20,30,20,15,10,5,75,25
+a.p.c. fans,40,60,20,30,20,15,10,5,75,25
+claudie pierlot fans,20,80,15,30,25,15,10,5,60,40
+iro fans,30,70,20,30,20,15,10,5,75,25
+isabel marant fans,20,80,10,30,25,20,10,5,75,25
+the kooples fans,40,60,20,30,20,15,10,5,75,25
+lanvin fans,35,65,10,20,20,20,15,15,80,20
+temperley london fans,20,80,10,30,25,20,10,5,75,25
+christopher kane fans,30,70,20,30,20,15,10,5,75,25
+alexander wang fans,40,60,20,30,20,15,10,5,75,25
+jazzy sock fans,60,40,20,30,20,15,10,5,60,40
+swimwear fans,40,60,20,30,20,15,10,5,60,40
+3d graphic designers,70,30,20,40,25,10,5,0,60,40
+safety minded- antivirus & cyber security,60,40,10,20,20,20,20,10,60,40
+app obsessed,60,40,30,35,20,10,4,1,75,25
+ai experts,75,25,5,35,30,20,7,3,85,15
+augmented reality interested,70,30,20,30,25,15,5,5,60,40
+aspiring filmmakers- hardware,60,40,25,35,20,10,5,5,60,40
+photography fans- camera tech,60,40,10,20,20,20,20,10,60,40
+software experts- cloud computing,70,30,10,30,25,20,10,5,60,40
+software experts- collaboration & conferencing tools,70,30,10,30,25,20,10,5,60,40
+aspiring animators- software,60,40,30,40,20,5,3,2,65,35
+tech enthusiasts- computer memory & storage,80,20,20,30,25,15,5,5,60,40
+tech enthusiasts- computer monitors,70,30,20,30,20,15,10,5,60,40
+tech enthusiasts- computer networking,80,20,20,30,25,15,7,3,60,40
+tech enthusiasts- computer processors,85,15,20,35,25,10,5,5,60,40
+tech enthusiasts- computer servers,85,15,10,30,25,20,10,5,60,40
+business decision makers- cdps,60,40,5,20,30,25,15,5,80,20
+software experts- databases,70,30,5,30,25,20,15,5,60,40
+tech enthusiasts- desktops,75,25,20,30,20,15,10,5,60,40
+tech enthusiasts- digital audio,70,30,20,30,20,15,10,5,60,40
+software experts- domain registration,70,30,10,30,25,20,10,5,60,40
+reading fans- e-book tech,50,50,10,20,20,15,20,15,60,40
+software experts- email,70,30,5,20,25,20,20,10,60,40
+software experts- enterprise software,70,30,5,20,30,25,15,5,80,20
+software experts- free software,80,20,20,30,25,15,7,3,60,40
+console gamers,60,40,30,35,20,10,4,1,60,40
+google fans,60,40,20,30,20,15,10,5,65,35
+tech enthusiasts- gps devices,70,30,10,20,30,20,10,10,60,40
+tech enthusiasts- hard drives,70,30,10,30,25,20,10,5,60,40
+music fans- headphones and hardware,70,30,20,30,20,15,10,5,60,40
+huawei fans,60,40,20,30,20,15,10,5,60,40
+apple fans,60,40,20,30,20,15,10,5,75,25
+business decision makers- it support,70,30,5,15,25,25,20,10,60,40
+tech enthusiasts- laptops,70,30,20,30,25,15,7,3,60,40
+lenovo fans,60,40,20,30,20,15,10,5,60,40
+mobile enthusiasts- accessories,60,40,20,30,20,15,10,5,60,40
+mobile enthusiasts,70,30,20,30,25,15,7,3,60,40
+business decision makers- network equipment & virtualization,70,30,5,15,25,25,20,10,60,40
+business decision makers- network storage,70,30,5,15,25,25,20,10,80,20
+nokia fans,70,30,10,20,30,20,10,10,60,40
+oneplus fans,70,30,20,30,20,15,10,5,60,40
+oppo fans,60,40,30,35,20,10,3,2,50,50
+photography fans- photo software,60,40,20,30,20,15,10,5,60,40
+tech enthusiasts- portable media players,70,30,20,30,20,15,10,5,60,40
+coding & programming experts,80,20,20,40,25,10,4,1,75,25
+home tech enthusiasts- projectors,70,30,10,30,25,20,10,5,60,40
+mexico interested,50,50,20,30,20,15,10,5,60,40
+samsung fans,60,40,20,30,20,15,10,5,60,40
+social media enthusiasts,50,50,30,25,20,10,10,5,60,40
+sony fans,70,30,20,30,20,15,10,5,60,40
+playstation fans,70,30,30,35,20,10,4,1,50,50
+home tech enthusiasts- speakers,70,30,10,20,30,20,10,10,60,40
+aspiring filmmakers- editing,60,40,30,40,15,10,5,0,60,40
+business decision makers- web conferencing,60,40,5,20,30,20,15,10,75,25
+adventure travellers,60,40,20,30,25,15,7,3,65,35
+distance travellers,50,50,20,30,20,15,10,5,60,40
+outdoor adventurers- beaches,50,50,20,30,20,15,10,5,60,40
+business travellers,65,35,5,20,30,25,15,5,80,20
+road trippers,60,40,20,30,20,15,10,5,60,40
+cruises interested,40,60,5,10,15,20,25,25,60,40
+rail travellers,60,40,10,15,20,20,20,15,60,40
+south america interested,50,50,20,30,20,15,10,5,60,40
+africa interested,40,60,20,30,20,15,10,5,60,40
+asia interested,50,50,20,30,20,15,10,5,60,40
+australia interested,50,50,20,25,20,15,10,10,60,40
+brazil interested,50,50,20,30,20,15,10,5,60,40
+brussels interested,50,50,20,30,20,15,10,5,60,40
+buenos aires interested,50,50,20,30,20,15,10,5,60,40
+canada interested,50,50,20,30,20,15,10,5,60,40
+china interested,50,50,20,30,20,15,10,5,60,40
+croatia interested,45,55,15,25,20,15,15,10,70,30
+denmark interested,50,50,15,25,20,15,15,10,60,40
+doha interested,50,50,20,30,20,15,10,5,60,40
+europe interested,45,55,15,25,20,15,15,10,70,30
+germany interested,50,50,20,25,20,15,10,10,60,40
+france interested,40,60,20,30,20,15,10,5,60,40
+helsinki interested,45,55,15,25,20,15,15,10,70,30
+hong kong interested,50,50,20,30,20,10,10,10,60,40
+hungary interested,50,50,10,20,20,15,20,15,60,40
+iceland interested,50,50,20,30,20,15,10,5,60,40
+india interested,50,50,20,30,20,15,10,5,60,40
+indonesia interested,50,50,20,30,20,15,10,5,60,40
+italy interested,40,60,20,30,20,15,10,5,60,40
+japan interested,50,50,20,30,20,15,10,5,60,40
+jeddah interested,50,50,20,30,20,15,10,5,60,40
+jordan interested,50,50,20,30,20,15,10,5,60,40
+kenya interested,50,50,20,30,20,15,10,5,60,40
+kiev interested,50,50,20,30,20,15,10,5,60,40
+kuwait interested,50,50,20,30,20,15,10,5,60,40
+latin america interested,50,50,20,30,20,15,10,5,60,40
+lebanon interested,50,50,20,30,20,15,10,5,60,40
+lima interested,50,50,20,30,20,15,10,5,60,40
+malaysia interested,50,50,20,30,20,15,10,5,60,40
+morocco interested,40,60,20,30,20,15,10,5,60,40
+nepal interested,50,50,20,30,20,15,10,5,60,40
+new zealand interested,50,50,20,30,20,15,10,5,60,40
+north america interested,50,50,20,30,20,15,10,5,60,40
+oslo interested,45,55,20,30,20,15,10,5,60,40
+panama interested,50,50,15,25,20,15,15,10,60,40
+poland interested,50,50,20,30,20,15,10,5,60,40
+catch-up tv buffs,40,60,20,30,20,15,10,5,60,40
+livestreaming devotees,60,40,30,35,20,10,4,1,60,40
+music streamers & spotify loyalists,50,50,30,30,20,10,5,5,60,40
+ott show binge-watchers,50,50,20,30,20,15,10,5,60,40
+crime and mystery film fans,50,50,10,20,20,20,15,15,60,40
+family film fans,45,55,15,20,20,15,15,15,60,40
+south asian film fans,50,50,20,30,20,15,10,5,60,40
+business news radio audience,60,40,5,15,20,25,20,15,75,25
+educational radio listeners,50,50,10,15,20,20,20,15,60,40
+news/talk radio audience,60,40,5,10,15,20,25,25,60,40
+oldies music fans,45,55,5,10,15,20,25,25,60,40
+historical fiction shows fans,40,60,10,20,20,20,20,10,60,40
+children show fans,50,50,20,20,20,15,15,10,60,40
+crime & detective show fans,45,55,10,20,20,20,15,15,60,40
+family show fans,45,55,10,15,20,20,20,15,60,40
+holiday show fans,40,60,10,20,15,20,20,15,60,40
+horror show fans,50,50,20,30,20,15,10,5,60,40
+music show fans,45,55,20,25,20,15,10,10,60,40
+sci-fi & fantasy show fans,60,40,20,30,20,15,10,5,60,40
+car tech fans- infotainment,70,30,10,20,30,20,10,10,60,40
+car feature upgraders- interior parts,80,20,10,30,25,20,10,5,60,40
+car fixers & upgraders- electrics,80,20,10,20,25,20,15,10,60,40
+budget car buyers,50,50,20,30,20,15,10,5,60,40
+pre-owned car buyers,60,40,10,20,25,20,15,10,50,50
+diesel car buyers,70,30,10,20,25,20,15,10,60,40
+driverless car buyers,60,40,10,30,25,20,10,5,75,25
+electric & hybrid cars,70,30,5,15,20,20,20,20,60,40
+performance car buyers,80,20,10,20,30,20,15,5,75,25
+business movers,60,40,5,20,30,25,15,5,75,25
+compact car owners,50,50,20,30,20,15,10,5,60,40
+coupe owners,60,40,20,30,20,15,10,5,60,40
+microcar owners,40,60,10,30,20,15,15,10,60,40
+minivan owners,40,60,5,15,25,25,20,10,60,40
+off-road owners,80,20,10,20,30,20,15,5,60,40
+baby & toddler entertainment,40,60,10,20,30,20,10,10,60,40
+baby & toddler food,20,80,5,30,35,20,5,5,60,40
+baby & toddler food,20,80,5,30,40,15,5,5,60,40
+bath & body product prioritisers,30,70,10,20,20,20,15,15,60,40
+budget bath & body product prioritisers,40,60,20,30,20,15,10,5,50,50
+luxury bath & body product prioritisers,40,60,10,20,20,20,20,10,80,20
+everyday bath & body product prioritisers,40,60,10,20,20,20,15,15,60,40
+male deodorant and antiperspirant intenders,100,0,20,30,25,15,7,3,60,40
+fragrance fans,40,60,10,20,20,20,15,15,60,40
+luxury fragrance product prioritisers,40,60,10,20,20,20,15,15,75,25
+everyday fragrance product prioritisers,40,60,20,30,20,15,10,5,60,40
+budget makeup & cosmetic product prioritisers,10,90,30,35,20,10,4,1,50,50
+luxury makeup & cosmetic product prioritisers,10,90,10,30,25,20,10,5,80,20
+everyday makeup & cosmetic product prioritisers,10,90,20,30,20,15,10,5,60,40
+female shavers,0,100,20,30,20,15,10,5,60,40
+skin care product fans,30,70,20,30,20,15,10,5,60,40
+budget skin care product prioritisers,30,70,20,30,20,15,10,5,60,40
+everyday skin care product prioritisers,30,70,20,30,20,15,10,5,60,40
+career guidance seekers,50,50,20,30,20,15,10,5,60,40
+career pathway planners,40,60,10,30,25,20,10,5,75,25
+job fair attendees,50,50,20,30,20,15,10,5,60,40
+remote work advocates,50,50,10,30,25,20,10,5,60,40
+skills-based training supporters,50,50,10,20,20,20,15,15,60,40
+dieters- food supplements,40,60,10,20,20,20,20,10,60,40
+fitness fans - protein & supplement users,70,30,20,30,25,15,7,3,60,40
+cosmetologists,10,90,20,30,25,15,7,3,60,40
+aspiring international studiers,40,60,50,30,10,5,3,2,60,40
+aspiring financial professionals,60,40,20,30,25,15,7,3,75,25
+career consulting enthusiasts,50,50,10,20,20,20,15,15,60,40
+administrative role seekers,40,60,10,20,20,20,20,10,60,40
+education sector hopefuls,40,60,20,30,20,15,10,5,60,40
+future executives & managers,60,40,10,30,25,20,10,5,75,25
+public sector professionals in the making,45,55,20,30,20,15,10,5,60,40
+healthcare career pursuers,30,70,20,30,20,15,10,5,60,40
+internship hunters,50,50,70,25,5,0,0,0,60,40
+tech role aspirants,70,30,30,40,20,7,2,1,60,40
+budding legal professionals,50,50,30,40,20,5,3,2,75,25
+retail role enthusiasts,40,60,20,30,20,15,10,5,60,40
+sales & marketing prospects,50,50,10,20,20,20,15,15,60,40
+seasonal job searchers,50,50,30,25,20,10,10,5,60,40
+dating,48,52,20,30,20,15,10,5,60,40
+pre-school families,50,50,5,40,45,10,0,0,60,40
+comfortable retirement,45,55,0,0,0,10,30,60,75,25
+crime/detective readers,40,60,10,20,20,20,15,15,60,40
+fantasy readers,40,60,20,30,20,15,10,5,60,40
+folktale readers,40,60,10,20,20,20,15,15,60,40
+historical fiction readers,40,60,10,15,20,20,20,15,60,40
+swashbuckler readers,60,40,10,20,20,20,20,10,50,50
+theological fiction readers,40,60,10,15,20,20,20,15,60,40
+on the shopping list- distilled beverages,60,40,10,20,25,20,15,10,60,40
+cocktail mixologists,60,40,20,30,25,15,7,3,65,35
+cooking enthusiasts- recipe inspiration,40,60,10,20,20,20,15,15,60,40
+christmas preppers,40,60,10,20,20,20,15,15,60,40
+special day preparation- photography,40,60,10,30,25,15,10,10,60,40
+special day preparation- even planning,30,70,10,30,20,15,15,10,60,40
+halloween preppers,40,60,20,30,20,15,10,5,60,40
+special day preparation- wedding planners,30,70,10,40,30,10,5,5,60,40
+fitness fans- fitness classes & personal training services,40,60,20,30,20,15,10,5,60,40
+fitness fans- gyms & athletic clubs,50,50,20,30,20,15,10,5,60,40
+fitness fans- heart rate monitors,60,40,10,30,25,20,10,5,60,40
+healthy living- male health,95,5,10,20,25,20,15,10,60,40
+healthy living- senior health,45,55,0,0,5,10,25,60,50,50
+healthy living- smoking cessation,50,50,10,20,20,20,15,15,60,40
+portfolio & resume sharers,50,50,20,30,20,15,10,5,60,40
+aspiring musicians,60,40,35,30,20,10,4,1,60,40
+go players,70,30,20,30,20,15,10,5,60,40
+snooker/pool/billiards players,80,20,15,25,20,20,10,10,50,50
+pressed flower enthusiasts,30,70,10,20,20,20,15,15,60,40
+gardening fans- flowers,30,70,5,10,15,20,25,25,60,40
+gardening fans- herb keeping,40,60,10,20,20,20,15,15,60,40
+gardening fans- houseplants,40,60,10,20,20,20,15,15,60,40
+butterfly observers,40,60,10,15,20,20,20,15,60,40
+picnic lovers,40,60,10,20,20,20,15,15,60,40
+puzzle hobbyists- memory training,50,50,10,20,20,20,15,15,60,40
+basic medicine scholars,40,60,20,30,20,15,10,5,60,40
+education science advocates,50,50,10,20,20,20,15,15,60,40
+literature & language lovers,40,60,10,20,20,20,15,15,60,40
+life science enthusiasts,50,50,20,25,20,15,10,10,60,40
+media & communication buffs,50,50,15,25,20,15,15,10,60,40
+biotech experts,60,40,10,30,25,20,10,5,75,25
+tech & science buffs,70,30,20,30,20,15,10,5,60,40
+cornhole players,60,40,10,20,25,20,15,10,50,50
+croquet players,50,50,10,15,20,20,20,15,60,40
+car restoration enthusiasts,90,10,5,15,20,25,20,15,60,40
+on-the-pulse fashionistas,30,70,20,30,20,15,10,5,60,40
+live event enthusiasts,50,50,20,25,20,15,10,10,60,40
+thrill seekers,60,40,20,30,25,15,7,3,50,50
+family time focussed,45,55,10,15,20,20,20,15,60,40
+quick meals,40,60,20,30,20,15,10,5,60,40
+cooking enthusiasts,40,60,10,20,20,20,15,15,60,40
+gardening fans- planting & horticulture,40,60,10,20,20,20,15,15,60,40
+news junkies,60,40,10,20,20,20,15,15,60,40
+computer investors,80,20,10,30,25,20,10,5,75,25
+tech enthusiasts,70,30,20,30,20,15,10,5,60,40
+entrepreneurs- angel investment stage,70,30,10,30,25,20,10,5,80,20
+green business leaders,45,55,10,20,25,20,15,10,75,25
+airline employees,60,40,10,20,25,20,15,10,75,25
+disputes resolution experts,50,50,5,15,20,25,20,15,80,20
+fashion employees,30,70,20,30,20,15,10,5,75,25
+architects,70,30,5,20,25,20,20,10,80,20
+professional artists,45,55,10,20,20,20,15,15,60,40
+auto employees,75,25,10,20,30,20,15,5,60,40
+broadcasters,60,40,10,20,20,20,20,10,75,25
+building suppliers,85,15,10,20,25,20,15,10,60,40
+business suppliers,60,40,5,20,25,20,20,10,75,25
+computer game makers,85,15,30,40,20,7,2,1,60,40
+tech enthusiasts- computer hardware,85,15,20,30,25,15,7,3,60,40
+software developers,80,20,10,40,30,15,4,1,75,25
+home renovators,50,50,5,20,25,20,20,10,60,40
+consumer goods suppliers,50,50,10,20,20,20,20,10,60,40
+consumer services suppliers,50,50,10,20,20,20,15,15,60,40
+cosmetics experts & suppliers,30,70,10,30,25,20,10,5,60,40
+dairy product suppliers,60,40,5,20,25,20,20,10,60,40
+defence & space workers,80,20,5,20,25,25,20,5,85,15
+designers,40,60,20,30,20,15,10,5,60,40
+online learning suppliers,60,40,10,30,25,20,10,5,65,35
+educators,30,70,5,20,25,20,20,10,60,40
+electrical manufacturers,70,30,10,20,25,20,15,10,60,40
+environmental service workers,60,40,10,20,25,20,15,10,60,40
+event organizers,40,60,10,30,25,20,10,5,75,25
+business executives,70,30,0,10,20,30,30,10,90,10
+facilities workers,60,40,10,20,20,20,20,10,40,60
+financial advisors,60,40,5,20,25,20,20,10,80,20
+food & beverages producers,60,40,10,20,25,20,15,10,60,40
+chefs and food producers,60,40,10,30,25,20,10,5,60,40
+charity fund raisers,40,60,10,20,20,20,15,15,75,25
+gambling and gaming employees,60,40,20,30,20,15,10,5,50,50
+market researchers,50,50,10,30,25,20,10,5,75,25
+marketers,50,50,10,30,25,20,10,5,60,40
+producers,60,40,10,20,25,20,15,10,75,25
+doctors and nurses,35,65,10,20,20,20,20,10,80,20
+mental health professionals,35,65,5,20,25,20,20,10,80,20
+mergers and acquisitions experts,70,30,5,20,30,25,15,5,80,20
+military personnel,85,15,20,30,25,15,7,3,60,40
+mining company employees,85,15,10,20,25,20,15,10,50,50
+film makers and on-set staff,60,40,20,30,20,15,10,5,75,25
+curators and museum staff,40,60,10,20,20,20,20,10,80,20
+charity workers,40,60,10,20,20,20,20,10,60,40
+energy sector workers,75,25,10,20,25,20,15,10,60,40
+digital content creators,60,40,30,35,20,10,4,1,60,40
+outsourcing specialists,60,40,5,20,30,25,15,5,75,25
+delivery and freight experts,80,20,10,20,30,20,15,5,60,40
+container design & manufacturing experts,80,20,5,20,30,25,15,5,60,40
+forest and paper industry workers,80,20,10,20,25,20,15,10,50,50
+pharma industry professionals,50,50,5,20,25,20,20,10,80,20
+charity and giving advocates,40,60,10,20,20,15,20,15,60,40
+plastics industry experts,70,30,5,15,20,25,20,15,60,40
+political advocates & organizers,50,50,20,30,20,10,10,10,60,40
+program design & developers,70,30,20,30,25,15,7,3,60,40
+policy makers & researchers,60,40,5,15,20,25,20,15,80,20
+communication & pr specialists,30,70,10,30,20,20,15,5,60,40
+safety & public welfare officers,70,30,5,15,20,25,20,15,60,40
+book & media publishers,40,60,5,20,25,20,20,10,75,25
+railroad industry workers,85,15,10,20,25,20,15,10,60,40
+ranch workers & managers,80,20,10,20,20,20,20,10,50,50
+recreation facility managers,60,40,5,20,25,25,15,10,60,40
+religious service workers,60,40,10,20,20,20,15,15,60,40
+green energy advocates,45,55,20,25,20,15,10,10,60,40
+restaurant staff & managers,50,50,20,30,20,15,10,5,60,40
+security & investigation experts,70,30,5,15,20,25,20,15,60,40
+semiconductor specialists,85,15,5,20,30,25,15,5,80,20
+shipbuilding professionals,85,15,5,20,25,20,20,10,60,40
+athletes & sports professionals,60,40,30,35,20,10,4,1,60,40
+recruitment specialists,50,50,10,30,25,20,10,5,60,40
+supermarket & retail staff,40,60,20,30,20,15,10,5,50,50
+telecom industry workers,70,30,10,20,30,20,15,5,60,40
+textile industry professionals,40,60,10,20,25,20,15,10,60,40
+research & policy analysts,50,50,10,20,20,20,20,10,60,40
+investment & equity experts,70,30,5,20,25,20,20,10,80,20
+animal care & veterinary professionals,30,70,10,30,20,20,15,5,60,40
+on the pulse- advertising industry,60,40,10,30,25,20,10,5,75,25
+on the pulse- agriculture,60,40,10,20,20,20,20,10,60,40
+on the pulse- apparel industry,40,60,20,30,20,15,10,5,60,40
+on the pulse- automotive industry,80,20,10,20,25,20,15,10,60,40
+on the pulse- aviation industry,80,20,5,15,20,25,20,15,75,25
+on the pulse- biotech and biomedical industry,60,40,10,20,30,20,10,10,80,20
+on the pulse- civil engineering industry,70,30,10,20,25,20,15,10,60,40
+on the pulse- construction industry,85,15,10,20,25,20,15,10,60,40
+on the pulse- defence industry,80,20,5,15,20,25,20,15,60,40
+on the pulse- education industry,40,60,10,20,20,20,20,10,60,40
+on the pulse- entertainment industry,50,50,20,30,20,15,10,5,60,40
+on the pulse- environmental services industry,50,50,10,20,20,20,15,15,60,40
+on the pulse- financial industry,70,30,5,20,30,25,15,5,80,20
+on the pulse- food industry,50,50,10,20,20,20,15,15,60,40
+on the pulse- healthcare industry,40,60,10,20,20,20,20,10,60,40
+on the pulse- hospitality industry,50,50,10,20,20,20,20,10,60,40
+on the pulse- information services industry,50,50,10,20,20,20,20,10,60,40
+on the pulse- legal services industry,60,40,5,15,20,20,20,20,75,25
+on the pulse- logistics and transportation industry,70,30,5,20,30,25,15,5,60,40
+on the pulse- management consulting industry,60,40,5,20,30,25,15,5,80,20
+on the pulse- manufacturing industry,70,30,5,15,20,25,20,15,60,40
+on the pulse- mechanical and industrial engineering industry,85,15,5,20,25,20,20,10,60,40
+on the pulse- media industry,50,50,15,25,20,15,15,10,60,40
+on the pulse- metals industry,85,15,5,15,25,25,20,10,60,40
+on the pulse- non-profit organizations,40,60,10,20,20,20,15,15,60,40
+on the pulse- pharmaceutical industry,60,40,5,15,20,25,20,15,75,25
+on the pulse- power and energy industry,70,30,5,15,20,25,20,15,60,40
+on the pulse- publishing industry,40,60,10,20,20,20,15,15,75,25
+on the pulse- real estate industry,60,40,5,20,25,20,20,10,60,40
+on the pulse- technology industry,70,30,20,30,25,15,7,3,60,40
+on the pulse- telecommunications industry,70,30,10,20,30,20,15,5,60,40
+active traders,70,30,10,20,25,20,15,10,60,40
+career starters,50,50,40,50,7,2,1,0,60,40
+ceos,90,10,0,2,10,30,40,18,95,5
+cios and ctos,80,20,0,10,30,30,20,10,90,10
+company changers,60,40,20,30,25,15,7,3,65,35
+ex-pats,50,50,10,30,25,15,10,10,60,40
+finance opinion leaders,70,30,5,10,20,25,25,15,80,20
+finance professionals,60,40,5,20,25,20,20,10,75,25
+freelancers,50,50,20,30,20,15,10,5,60,40
+it decision makers,70,30,5,20,30,25,15,5,80,20
+it professionals,70,30,10,30,25,20,10,5,60,40
+events planners,30,70,10,30,25,20,10,5,60,40
+opinion leaders,60,40,5,15,20,20,20,20,80,20
+sme leaders,65,35,5,20,25,20,20,10,75,25
+students,50,50,60,30,5,3,1,1,50,50
+students- undergrad senior,50,50,95,5,0,0,0,0,60,40
+analytical experts,60,40,10,30,25,20,10,5,75,25
+audit professionals,50,50,5,20,25,20,20,10,75,25
+budgeting masters,50,50,10,20,20,20,20,10,60,40
+business growth strategists,60,40,5,20,30,25,15,5,80,20
+business service experts,60,40,5,20,30,25,15,5,75,25
+strategic planners,60,40,5,20,30,25,15,5,80,20
+change managers,50,50,5,20,25,20,20,10,75,25
+compliance specialists,40,60,5,20,25,20,20,10,75,25
+healthcare professionals,30,70,10,20,20,20,20,10,60,40
+consulting gurus,60,40,5,20,30,25,15,5,80,20
+cost efficiency masters,60,40,5,20,30,25,15,5,80,20
+customer relations pros,40,60,10,30,25,20,10,5,60,40
+data masters,60,40,5,30,25,20,15,5,75,25
+design professionals,40,60,10,30,25,20,10,5,75,25
+education specialists,30,70,5,20,25,20,20,10,60,40
+employee managers,60,40,5,20,30,25,15,5,75,25
+engineering pros,85,15,10,25,30,20,10,5,80,20
+english proficiency,50,50,15,20,20,15,15,15,60,40
+facilities managers,70,30,5,15,20,25,25,10,60,40
+equipment experts,70,30,10,20,25,20,15,10,60,40
+human resources specialists,40,60,10,30,25,20,10,5,75,25
+it specialists,75,25,10,30,25,20,10,5,80,20
+innovation leaders,60,40,10,30,25,20,10,5,75,25
+global affairs enthusiasts,60,40,15,25,20,15,15,10,60,40
+leadership gurus,60,40,5,15,20,25,20,15,75,25
+legal experts,52,48,5,20,25,20,20,10,80,20
+management pros,60,40,5,20,30,25,15,5,80,20
+marketing strategists,50,50,10,30,25,20,10,5,75,25
+mentoring experts,40,60,5,15,20,25,20,15,60,40
+excel gurus,60,40,10,30,25,20,10,5,75,25
+office suite masters,50,50,10,20,20,20,20,10,60,40
+negotiation experts,60,40,5,20,25,20,20,10,75,25
+networking masters,60,40,10,30,25,20,10,5,75,25
+business development pros,60,40,5,20,30,25,15,5,75,25
+office specialists,40,60,10,20,20,20,20,10,60,40
+order fulfilment experts,50,50,10,30,25,20,10,5,60,40
+organizational gurus,40,60,10,20,25,20,15,10,75,25
+performance tuners,85,15,20,30,25,15,7,3,60,40
+photoshop artists,50,50,20,30,20,15,10,5,60,40
+policy makers,60,40,5,15,20,25,20,15,80,20
+powerpoint pros,50,50,10,20,20,20,20,10,60,40
+presentation masters,50,50,10,20,20,20,20,10,60,40
+problem-solving gurus,60,40,10,20,25,20,15,10,60,40
+product development experts,60,40,10,30,25,20,10,5,75,25
+program managers,55,45,5,20,30,25,15,5,75,25
+project management pros,60,40,5,20,30,25,15,5,75,25
+planning experts,40,60,10,20,25,20,15,10,60,40
+promotion strategists,50,50,10,30,25,20,10,5,75,25
+public relations experts,30,70,10,30,25,20,10,5,75,25
+reporting pros,50,50,10,20,20,20,20,10,60,40
+revenue generators,60,40,10,30,25,20,10,5,75,25
+sales experts,60,40,10,30,25,20,10,5,60,40
+sales strategy experts,60,40,5,20,30,25,15,5,75,25
+software experts,70,30,10,30,25,20,10,5,60,40
+strategic thinkers,50,50,10,20,20,20,15,15,60,40
+team builders,50,50,10,20,20,20,20,10,60,40
+testing professionals,60,40,10,30,25,20,10,5,60,40
+anime fans,60,40,40,30,15,10,4,1,50,50
+miniature art fans,40,60,10,20,20,20,15,15,60,40
+healthy living- children's health,40,60,10,20,25,20,15,10,60,40
+fitness fans- cross trainers,50,50,10,20,25,20,15,10,60,40
+healthy living- herbs and supplements,40,60,10,20,20,20,15,15,60,40
+socialisers- home entertaining,40,60,10,20,25,20,15,10,60,40
+home comfort prioritisers- indoor environmental quality,40,60,10,20,20,20,15,15,60,40
+garden living enthusiasts- decorating,40,60,5,15,20,20,20,20,60,40
+hands on home renovators- plumbing,85,15,5,15,20,25,20,15,60,40
+hands on home renovators- electrics,85,15,5,20,25,20,20,10,60,40
+home renovators- architecture,60,40,5,15,20,25,20,15,75,25
+hands on home renovators- flooring,85,15,5,20,30,25,15,5,60,40
+house proud- home cleaning services,40,60,5,15,20,20,20,20,75,25
+in need of help- locksmith services,50,50,10,20,20,20,15,15,60,40
+home design fans- painting services,40,60,5,15,20,25,20,15,60,40
+in need of help- plumbing services,50,50,10,20,20,20,15,15,60,40
+cooking enthusiasts- breadmaking equipment,40,60,5,15,20,20,20,20,60,40
+home upgraders- cooking ranges & stoves,50,50,5,20,25,20,15,15,60,40
+home upgraders- dishwashers,50,50,5,15,20,20,20,20,60,40
+home upgraders- refrigerators,50,50,5,15,20,20,20,20,60,40
+home upgraders- vacuums,40,60,10,20,20,20,20,10,60,40
+home upgraders- washers & dryers,40,60,10,20,20,20,20,10,60,40
+home design fans- ceiling light fixtures,40,60,10,20,20,20,20,10,60,40
+home design fans- curtains,30,70,10,20,20,20,20,10,60,40
+home design fans- dining room furniture,40,60,10,20,20,20,20,10,60,40
+home design fans- storage & shelving,40,60,10,20,25,20,15,10,60,40
+home tech enthusiasts- home theatre systems,80,20,10,30,25,20,10,5,60,40
+kitchen upgraders- kitchen furniture,40,60,10,20,25,20,15,10,60,40
+bedroom upgraders- mattresses,50,50,10,20,20,20,15,15,60,40
+home design fans- office chairs,60,40,10,20,30,20,10,10,60,40
+home upgraders- other kitchen appliance accessories,40,60,5,20,25,20,20,10,60,40
+kitchen upgraders- refrigerator accessories,40,60,5,15,20,25,20,15,60,40
+home design fans- wall light fixtures,40,60,10,20,20,20,15,15,60,40
+reviewing outgoings- internet service providers,60,40,10,20,20,20,20,10,60,40
+reviewing outgoings- mobile phone service providers,50,50,10,20,20,20,15,15,60,40
+reviewing outgoings- water services,50,50,10,20,20,20,15,15,60,40
+house proud- home cleaning supplies,30,70,10,20,20,20,15,15,60,40
+in need of help- pest control,50,50,10,20,20,20,15,15,60,40
+health concerned- medical tests,40,60,5,10,15,20,25,25,60,40
+health concerned- pharmaceutical drugs,45,55,5,10,15,20,25,25,60,40
+health concerned- surgery,50,50,5,10,15,20,25,25,60,40
+health concerned- birth control,20,80,30,35,20,10,4,1,60,40
+health concerned- blood disorders,40,60,5,10,15,20,25,25,60,40
+health concerned- bone and joint conditions,40,60,5,10,15,20,25,25,60,40
+health concerned- brain and nervous system disorders,50,50,5,10,15,20,25,25,60,40
+health concerned- cold and flu,40,60,10,15,20,20,20,15,60,40
+"health concerned- ear, nose and throat conditions",50,50,10,15,20,20,20,15,60,40
+health concerned- foot health,40,60,10,15,20,20,20,15,60,40
+health concerned- heart and cardiovascular diseases,55,45,5,10,15,20,25,25,60,40
+health concerned- hormonal disorders,30,70,5,10,15,20,25,25,60,40
+health concerned- infectious diseases,50,50,10,20,20,20,15,15,60,40
+health concerned- infertility,40,60,5,20,35,25,10,5,60,40
+health concerned- injuries,50,50,10,20,20,20,15,15,60,40
+health concerned- lung and respiratory health,50,50,10,15,20,20,20,15,60,40
+health concerned- menopause,5,95,1,5,10,30,40,14,60,40
+health concerned- sexual conditions,50,50,10,20,20,20,15,15,60,40
+health concerned- skin and dermatology,40,60,20,25,20,15,10,10,60,40
+health concerned- sleep disorders,45,55,10,15,20,20,20,15,60,40
+gmc fans,70,30,10,20,20,20,20,10,60,40
+autobiography readers,40,60,10,20,20,20,15,15,60,40
+office managers- office furniture,40,60,5,20,25,20,20,10,75,25
+large pet owners,50,50,10,20,20,20,15,15,60,40
+pet owners- in need of supplies,40,60,10,20,20,20,20,10,60,40
+small pet owners,40,60,20,30,20,15,10,5,60,40
+property redevelopers,60,40,5,20,25,20,20,10,80,20
+home-from-home holidayers,50,50,10,20,20,20,15,15,60,40
+sports players,60,40,20,30,25,15,7,3,50,50
+aspiring artists,40,60,30,35,15,10,5,5,60,40
+soccer fans- attendees,60,40,20,30,20,15,10,5,60,40
+fitness fans- male running shoes,95,5,20,30,25,15,5,5,60,40
+fitness fans- female running shoes,5,95,20,30,25,15,7,3,60,40
+body art fans,50,50,30,35,20,10,4,1,60,40
+boots - male fans,100,0,20,30,25,15,7,3,60,40
+boots - female fans,5,95,15,30,25,15,10,5,60,40
+budget shoes - male fans,100,0,20,30,25,15,7,3,50,50
+budget shoes - female fans,5,95,20,30,25,15,5,5,60,40
+children's clothing fans,20,80,5,20,30,20,15,10,60,40
+designer clothing fans,40,60,20,30,20,15,10,5,75,25
+on-the-pulse fashionistas- shoes,40,60,20,30,20,15,10,5,60,40
+high street fashionistas,40,60,20,30,20,15,10,5,75,25
+budget accessory wearers- male,100,0,20,30,25,15,7,3,60,40
+luxury accessory wearers- male,100,0,10,30,25,20,10,5,80,20
+mainstream accessory wearers- male,100,0,20,30,25,15,5,5,60,40
+budget business dressers- male,100,0,20,30,25,15,5,5,60,40
+luxury business dressers- male,100,0,5,20,30,25,15,5,80,20
+mainstream business dressers- male,100,0,5,30,35,20,7,3,80,20
+budget casual dressers- male,100,0,20,30,25,15,5,5,50,50
+luxury casual dressers- male,100,0,10,20,30,20,15,5,80,20
+mainstream casual dressers- male,100,0,20,30,25,15,7,3,60,40
+budget dressers- male,100,0,20,30,25,15,5,5,60,40
+luxury dressers- male,100,0,10,30,30,20,5,5,80,20
+mainstream dressers- male,100,0,15,30,25,15,10,5,60,40
+budget formal dressers- male,100,0,20,30,25,15,7,3,60,40
+luxury formal dressers- male,100,0,10,20,30,20,15,5,80,20
+mainstream formal dressers- male,100,0,10,20,30,20,15,5,60,40
+budget jewellery buyers- male,100,0,20,30,25,15,5,5,60,40
+luxury jewellery buyers- male,100,0,5,20,30,25,15,5,80,20
+mainstream jewellery buyers- male,100,0,10,20,30,20,10,10,60,40
+budget shoe buyers- male,100,0,20,30,25,15,5,5,50,50
+luxury shoe buyers- male,100,0,10,30,25,20,10,5,80,20
+mainstream shoe buyers- male,100,0,20,30,25,15,7,3,60,40
+budget sportswear buyers- male,100,0,20,30,25,15,7,3,60,40
+luxury sportswear buyers- male,100,0,10,30,25,20,10,5,80,20
+mainstream sportswear buyers- male,100,0,20,30,25,15,7,3,60,40
+mainstream underwear buyers- male,100,0,20,30,25,15,7,3,60,40
+budget bag and wallet buyers- male,100,0,20,30,25,15,7,3,60,40
+luxury bag and wallet buyers- male,100,0,10,30,25,20,10,5,80,20
+mainstream bag and wallet buyers- male,100,0,10,30,25,20,10,5,60,40
+budget accessory wearers- female,0,100,20,30,20,15,10,5,50,50
+luxury accessory wearers- female,0,100,10,30,25,20,10,5,80,20
+mainstream accessory wearers- female,0,100,20,30,20,15,10,5,60,40
+budget business dressers- female,0,100,10,30,30,20,5,5,60,40
+luxury business dressers- female,0,100,5,20,30,25,15,5,85,15
+mainstream business dressers- female,0,100,10,30,30,20,5,5,75,25
+budget casual dressers- female,0,100,20,30,20,15,10,5,50,50
+luxury casual dressers- female,0,100,10,30,25,20,10,5,80,20
+mainstream casual dressers- female,0,100,15,30,25,15,10,5,60,40
+budget dressers- female,5,95,20,30,20,15,10,5,60,40
+luxury dressers- female,0,100,10,20,30,20,15,5,80,20
+mainstream dressers- female,0,100,20,30,25,15,7,3,60,40
+budget formal dressers- female,0,100,20,30,25,15,7,3,50,50
+luxury formal dressers- female,0,100,10,30,25,20,10,5,80,20
+mainstream formal dressers- female,0,100,10,25,20,20,15,10,70,30
+budget glasses wearers,45,55,20,25,20,15,10,10,60,40
+luxury glasses wearers,50,50,10,20,20,20,20,10,80,20
+mainstream glasses wearers,50,50,15,20,20,15,15,15,60,40
+budget handbag buyers- female,5,95,20,30,20,15,10,5,60,40
+luxury handbag buyers- female,5,95,10,30,25,20,10,5,80,20
+mainstream handbag buyers- female,0,100,10,20,20,20,20,10,60,40
+budget hat buyers- female,0,100,20,30,20,15,10,5,50,50
+luxury hat buyers- female,0,100,10,20,20,20,20,10,80,20
+mainstream hat buyers- female,0,100,15,25,20,20,15,5,60,40
+luxury underwear buyers- female,0,100,20,30,25,15,7,3,80,20
+mainstream underwear buyers- female,0,100,20,30,20,15,10,5,60,40
+budget jewellery buyers- female,5,95,20,30,20,15,10,5,50,50
+mainstream jewellery buyers- female,0,100,10,20,25,20,15,10,60,40
+luxury shoe buyers- female,0,100,10,30,25,20,10,5,80,20
+mainstream shoe buyers- female,0,100,15,25,20,20,15,5,60,40
+budget sportswear buyers- female,0,100,20,30,25,15,5,5,50,50
+luxury sportswear buyers- female,0,100,10,30,25,20,10,5,80,20
+mainstream sportswear buyers- female,0,100,20,30,25,15,7,3,60,40
+luxury jewellery buyers- female,0,100,5,20,25,25,15,10,80,20
+software experts- browsers,70,30,10,30,25,20,10,5,60,40
+tech enthusiasts- computer peripherals,70,30,20,30,20,15,10,5,60,40
+software experts- crm solutions,70,30,5,20,30,25,15,5,75,25
+personal publishers,50,50,20,30,20,15,10,5,60,40
+business decision makers- helpdesk & customer support solutions,60,40,5,20,30,25,15,5,75,25
+home tech enthusiasts- home entertainment systems,70,30,10,20,20,20,15,15,60,40
+late internet adopters,45,55,5,10,15,20,25,25,50,50
+business decision makers- network & enterprise security,70,30,5,20,30,25,15,5,80,20
+nintendo fans,60,40,30,30,20,10,5,5,60,40
+software experts- operating systems,80,20,10,30,25,20,10,5,60,40
+tech enthusiasts- power adapters & chargers,70,30,20,30,25,15,5,5,60,40
+home tech enthusiasts- stereo systems,70,30,10,20,25,20,15,10,60,40
+family holidayers,45,55,10,20,25,20,15,10,60,40
+honeymooners,50,50,10,60,20,5,3,2,75,25
+hotel comfort,50,50,10,20,20,20,15,15,75,25
+polar travel interested,60,40,10,20,20,20,20,10,75,25
+impending travellers,50,50,20,30,20,15,10,5,60,40
+bogota interested,50,50,20,30,20,15,10,5,60,40
+moscow interested,45,55,20,30,20,15,10,5,60,40
+santiago interested,50,50,20,30,20,15,10,5,60,40
+seoul interested,40,60,20,30,20,15,10,5,60,40
+sri lanka interested,50,50,20,30,20,15,10,5,60,40
+taipei interested,50,50,20,30,20,15,10,5,60,40
+tehran interested,50,50,20,30,20,15,10,5,60,40
+the caribbean interested,45,55,20,30,20,15,10,5,60,40
+the middle east & africa interested,45,55,20,30,20,15,10,5,60,40
+the philippines interested,50,50,20,30,20,15,10,5,60,40
+the uk interested,45,55,20,30,20,15,10,5,60,40
+the united arab emirates interested,50,50,20,30,20,15,10,5,60,40
+turkey interested,50,50,20,25,20,15,10,10,60,40
+vienna interested,40,60,10,20,15,20,20,15,60,40
+vietnam interested,50,50,20,30,20,15,10,5,60,40
+camper van fans,60,40,10,20,20,20,20,10,60,40
+adventure gamers,60,40,25,30,20,15,7,3,60,40
+casual gamers,40,60,20,30,20,15,10,5,60,40
+educational video gamers,85,15,50,30,15,3,1,1,60,40
+mobile gamers,60,40,30,35,20,10,4,1,50,50
+music & party video gamers,40,60,30,35,20,10,3,2,50,50
+pc gamers,85,15,40,35,15,5,3,2,60,40
+impulsive shoppers,40,60,20,30,20,15,10,5,60,40
+indecisive shoppers,50,50,20,25,20,15,10,10,60,40
+luxury shoppers,40,60,10,20,25,20,15,10,80,20
+intensive research shoppers,50,50,10,20,20,20,20,10,60,40
+shopaholics,40,60,20,30,20,15,10,5,60,40
+showrooming customers,50,50,20,30,20,15,10,5,60,40
+art aficionados,40,60,10,20,20,20,15,15,75,25
+active historians,50,50,5,10,15,20,25,25,60,40
+museum visitors,45,55,10,15,20,20,20,15,60,40
+experience seeker - amusement parks,50,50,25,30,20,15,5,5,60,40
+experience seeker - aquariums,45,55,15,25,20,15,15,10,60,40
+experience seeker - casinos & gambling destinations,60,40,10,20,20,20,20,10,60,40
+cinema goers & film lovers- cinema visitors,50,50,20,25,20,15,10,10,60,40
+experience seeker - coffeehouses,40,60,20,30,20,15,10,5,60,40
+experience seeker - diners,50,50,10,20,20,20,15,15,60,40
+experience seeker - fashion events,30,70,20,30,20,15,10,5,60,40
+casual restaurant fans,50,50,20,20,20,15,15,10,60,40
+experience seeker - live music,50,50,20,30,20,15,10,5,60,40
+experience seeker - pubs and bars,60,40,20,30,25,15,5,5,50,50
+experience seeker - sports events,60,40,20,30,20,15,10,5,60,40
+experience seeker - stand-up comedy shows,60,40,20,30,20,15,10,5,60,40
+experience seeker - zoos,45,55,20,25,20,15,10,10,60,40
+outdoor adventurers- national parks,50,50,10,20,20,20,20,10,60,40
+outdoor adventurers- parks,50,50,15,20,20,15,15,15,60,40
+auto show enthusiasts,70,30,10,20,25,20,15,10,60,40
+conference attendees,50,50,10,20,20,20,20,10,60,40
+salon patrons,30,70,15,25,20,15,15,10,60,40
+designer outlet shoppers,40,60,10,20,25,20,15,10,75,25
+duty-free shoppers,50,50,10,20,20,20,20,10,60,40
+shopping centre enthusiasts,40,60,20,30,20,15,10,5,60,40
+supermarket regulars,45,55,10,20,20,20,15,15,60,40
+corporate law professionals,50,50,5,20,25,20,20,10,80,20
+editing experts,40,60,10,30,20,20,15,5,75,25
+internal audit pros,50,50,5,20,30,25,15,5,80,20
+process improvement specialists,60,40,5,20,30,25,15,5,80,20
+fingerpainting fans,40,60,20,30,20,15,10,5,60,40
+dominoes players,60,40,10,15,20,20,20,15,50,50
+quilling queens & kings,40,60,10,20,20,20,20,10,60,40
+soap crafting artists,30,70,10,20,20,20,20,10,60,40
+home design fans- feng shui,40,60,10,20,20,20,15,15,60,40
+foragers,50,50,10,20,20,20,15,15,40,60
+gardening fans- guerrilla gardening,60,40,10,20,20,20,15,15,50,50
+bell ringing devotees,60,40,5,10,15,20,25,25,60,40
+book restoration artists,40,60,5,15,20,25,20,15,75,25
+mycology enthusiasts,50,50,10,20,20,20,15,15,60,40
+pet insect owners,60,40,20,30,20,15,10,5,50,50
+puzzle hobbyists- mazes (indoor/outdoor),60,40,10,20,20,20,15,15,60,40
+fungi study devotees,50,50,10,20,20,20,15,15,60,40
+iceboat racing fans,70,30,5,10,15,20,25,25,60,40
+jukskei players,60,40,10,20,20,20,15,15,50,50
+polo aficionados,70,30,5,10,20,25,25,15,80,20
+speedcubing buffs,80,20,50,30,10,5,3,2,60,40
+sport stacking enthusiasts,60,40,30,25,20,10,10,5,50,50
+tennis polo fans,60,40,10,20,25,20,15,10,65,35
+tether car racers,85,15,10,20,30,20,10,10,60,40
+european championships (football) fans,60,40,20,30,20,15,10,5,50,50
+nations league fans,70,30,20,30,20,15,10,5,60,40
+power 5 conferences fans,60,40,20,25,20,15,10,10,50,50
+tech investigators,70,30,20,30,25,15,7,3,60,40
+trade fair businessmen,70,30,5,20,30,25,15,5,80,20
+model racing enthusiasts,85,15,20,30,25,15,5,5,60,40
+business leaders,70,30,1,10,20,30,25,14,85,15
+graduating soon,50,50,80,15,5,0,0,0,60,40
+prom preparers,40,60,90,5,3,1,1,0,60,40
+recently graduated,50,50,60,30,5,3,1,1,60,40
+cat owners,35,65,10,20,20,15,20,15,60,40
+dog owners,48,52,10,20,20,20,15,15,60,40
+anniversary celebrators,50,50,5,20,25,20,20,10,60,40
+recently bereaved,48,52,5,10,15,20,25,25,50,50
+new parents,50,50,10,40,30,15,5,0,60,40
+new pet owners,45,55,20,30,20,15,10,5,60,40
+birthday celebrators,50,50,20,20,20,15,15,10,60,40
+new baby gifters,30,70,5,20,30,20,15,10,60,40
+bachelor party planners,70,30,10,40,30,15,5,0,60,40
+bachelorette party planners,10,90,10,40,30,15,5,0,70,30
+newly engaged,50,50,20,40,20,10,5,5,60,40
+home movers- in the process of moving,50,50,10,20,20,20,15,15,60,40
+home movers- researching,50,50,10,20,20,20,15,15,60,40
+home movers- settling in,50,50,10,20,30,20,10,10,60,40
+recently retired,50,50,0,0,0,0,20,80,60,40
+retirees,45,55,0,0,0,0,20,80,60,40
+soon to retire,50,50,0,0,0,20,40,40,60,40
+apprenticeship enthusiasts,60,40,30,25,20,15,5,5,50,50
+resume crafting seekers,50,50,20,30,20,15,10,5,60,40
+dieters- nootropics,60,40,10,30,25,20,10,5,75,25
+home design fans- carpet,40,60,10,20,20,20,20,10,60,40
+in need of help- roofing services,60,40,5,15,20,25,20,15,60,40
+image conscious- cosmetics services,20,80,15,30,25,15,10,5,60,40
+health concerned- vaccines,40,60,10,20,20,20,15,15,60,40
+health concerned- allergies,40,60,10,15,20,20,20,15,60,40
+health concerned- endocrine and metabolic diseases,40,60,5,10,15,20,25,25,60,40
+health concerned- eye and vision conditions,45,55,5,10,15,20,25,25,60,40
+health concerned- mental health,40,60,20,30,20,15,10,5,60,40
+health concerned- thyroid disorders,20,80,5,10,15,20,25,25,60,40
+art and photography books readers,40,60,10,20,20,20,15,15,60,40
+reference readers,50,50,10,15,20,20,20,15,60,40
+pet owners- in need of a vet,40,60,10,20,20,20,15,15,60,40
+home tech enthusiasts- printers and scanners,60,40,10,20,25,20,15,10,60,40
+prague interested,50,50,20,30,20,15,10,5,60,40
+on the pulse- retail industry,40,60,10,20,20,20,20,10,60,40
+art collectors,60,40,5,10,15,20,25,25,80,20
+rockhounding fans,60,40,10,20,20,20,15,15,50,50
+powerboat racing fans,70,30,10,20,25,20,15,10,60,40
+eredivise fans,70,30,20,30,20,15,10,5,60,40
+budget fragrance product prioritisers,40,60,20,30,20,15,10,5,50,50
+luxury skin care product prioritisers,30,70,10,20,20,20,20,10,80,20
+tech enthusiasts- tablets,60,40,20,30,20,15,10,5,60,40
+riyadh interested,60,40,20,30,20,15,10,5,65,35
+spain interested,40,60,20,30,20,15,10,5,60,40
+thailand interested,50,50,20,30,20,15,10,5,60,40
+renaissance fair fans,50,50,10,20,20,20,20,10,60,40
+rowing,60,40,10,20,25,20,15,10,75,25
+van owners,70,30,5,15,20,25,20,15,60,40
+tanning fans,40,60,20,30,20,15,10,5,60,40
+vegans,40,60,20,30,20,15,10,5,60,40
+university bound- researching options,50,50,80,15,3,1,1,0,60,40
+young adult literature readers,40,60,50,25,15,5,3,2,60,40
+financial planners - auto insurance,60,40,5,15,20,25,20,15,75,25
+financial planners - debit & checking services,50,50,10,20,20,20,20,10,60,40
+financial planners - estate planning,60,40,5,15,20,25,20,15,80,20
+financial planners - financial planning & assistance,60,40,5,20,25,20,20,10,75,25
+financial planners - health insurance,40,60,5,20,25,20,20,10,75,25
+financial planners - home insurance,50,50,5,20,25,20,20,10,60,40
+financial planners - life insurance,60,40,5,15,20,25,20,15,75,25
+financial planners - pet insurance,40,60,5,20,25,20,20,10,60,40
+financial planners - retirement planning,60,40,5,15,20,25,20,15,75,25
+financial planners - savings accounts,60,40,5,15,20,25,20,15,75,25
+financial planners - student loans,40,60,5,30,25,20,15,5,75,25
+financial planners - tax software,60,40,5,20,30,20,15,10,80,20
+financial planners - travel insurance,50,50,5,20,25,20,20,10,60,40
+vegetarians,40,60,20,30,20,15,10,5,60,40
+on the shopping list- viennoiserie,40,60,10,20,20,20,15,15,60,40
+vietnamese cuisine fans,50,50,20,30,20,15,10,5,60,40
+on the shopping list- wine,45,55,10,20,20,20,15,15,60,40
+gifting preppers - personalized gifts,40,60,10,20,20,20,15,15,60,40
+home renovators- remodelling,50,50,5,15,20,25,20,15,60,40
+toyota fans,70,30,10,20,25,20,15,10,60,40
+vauxhall fans,70,30,10,20,25,20,15,10,60,40
+volkswagen fans,70,30,10,20,20,20,20,10,60,40
+volvo fans,70,30,5,15,20,25,20,15,60,40
+financial planners- house market,60,40,5,15,20,25,20,15,75,25
+zalando fans,40,60,20,30,20,15,10,5,60,40
+tiffany & co. fans,30,70,10,20,20,20,20,10,80,20
+zara fans,30,70,30,35,20,10,4,1,60,40
+uniqlo fans,50,50,20,30,20,15,10,5,60,40
+tom ford fans,40,60,10,20,25,20,15,10,80,20
+victorias secret fans,20,80,25,35,20,10,5,5,60,40
+tj maxx fans,30,70,15,20,20,20,15,10,60,40
+under armour fans,60,40,20,30,25,15,7,3,60,40
+vera wang fans,10,90,15,30,25,15,10,5,80,20
+urban outfitters fans,40,60,30,35,20,10,4,1,60,40
+tissot fans,70,30,5,15,20,25,20,15,80,20
+tommy hilfiger fans,45,55,20,30,20,15,10,5,60,40
+tory burch fans,20,80,10,30,25,20,10,5,75,25
+news junkies- law stories,60,40,10,20,20,20,15,15,60,40
+tv show fanatics,50,50,20,25,20,15,10,10,60,40
+getting work ready - material handling equipment,70,30,20,30,25,15,7,3,50,50
+weather enthusiasts,60,40,10,20,20,20,15,15,60,40
+video game players,59,41,30,35,15,10,5,5,50,50
+financial planners - mortgages,60,40,5,20,25,20,20,10,75,25
+orienteering experts,60,40,10,20,25,20,15,10,60,40
+wrestling fans- wwe,70,30,20,30,20,15,10,5,50,50
+wrestling fans,70,30,20,30,20,15,10,5,50,50
+puzzle champions- rubik's cube,70,30,30,40,15,10,5,0,60,40
+getting work ready - signage,60,40,10,20,25,20,15,10,50,50
+financial planners- job market,60,40,5,20,30,25,15,5,75,25
+youtube enthusiasts,55,45,30,25,20,10,10,5,60,40
+travel buffs,50,50,10,20,20,20,15,15,60,40
+water sports lovers,60,40,20,30,20,15,10,5,60,40
+thru-hiking enthusiasts,60,40,10,20,20,20,20,10,60,40
+train enthusiasts,80,20,10,15,20,20,20,15,60,40
+triathlon competitors,60,40,10,20,30,20,15,5,75,25
+truck & suv enthusiasts,75,25,10,20,25,20,15,10,60,40
+unicycle riders,70,30,20,30,20,15,10,5,60,40
+upcycling innovators,40,60,20,30,20,15,10,5,65,35
+vegetable farming fans,60,40,10,20,20,20,20,10,50,50
+veteran supporters,60,40,5,10,15,20,25,25,60,40
+video producers,60,40,10,30,25,20,10,5,60,40
+vintage car collectors,85,15,5,10,15,20,25,25,60,40
+vintage clothing collectors,30,70,20,30,20,15,10,5,60,40
+volleyball lovers,50,50,20,30,20,15,10,5,60,40
+volunteer heroes,40,60,20,20,15,15,15,15,60,40
+wargaming players,85,15,20,30,25,15,7,3,60,40
+water polo devotees,60,40,30,25,20,15,5,5,60,40
+weaving wizards,30,70,10,20,20,20,20,10,60,40
+welders,95,5,15,30,25,20,7,3,50,50
+whale watching enthusiasts,50,50,10,15,20,20,20,15,60,40
+wine tasting connoisseurs,50,50,5,15,20,20,20,20,80,20
+wine crafting connoisseurs,60,40,5,10,15,20,25,25,75,25
+winter sports fans,60,40,20,25,20,15,10,10,60,40
+witchcraft practitioners,30,70,20,30,20,15,10,5,60,40
+wood carving artists,70,30,5,15,20,25,20,15,60,40
+getting work ready - workwear,60,40,10,20,25,20,15,10,60,40
+world music fans,50,50,15,20,20,15,15,15,60,40
+news junkies- crime stories,60,40,10,15,20,20,20,15,50,50
+news junkies- elections stories,60,40,10,20,20,20,15,15,60,40
+news junkies- local news stories,50,50,10,15,20,20,20,15,60,40
+news junkies- current events stories,60,40,10,20,20,20,20,10,60,40
+news junkies- sports stories,70,30,15,25,20,15,15,10,60,40
+news junkies- weather stories,60,40,10,15,20,20,20,15,60,40
+western readers,60,40,10,15,20,20,20,15,50,50
+ultimate frisbee fans,60,40,30,35,20,10,3,2,50,50
+aspiring djs- equipment,80,20,40,35,15,5,3,2,60,40
+bus travellers,50,50,15,20,15,15,20,15,60,40
+financial planners - credit & lending,60,40,5,20,25,20,20,10,75,25
+financial planners - credit cards,60,40,5,20,30,20,15,10,75,25
+university bound- researching institutions,45,55,70,20,5,3,1,1,60,40
+trail hikers,55,45,10,20,20,20,15,15,60,40
+financial planners - insurance,60,40,5,20,25,20,20,10,75,25
+winter olympics fans,50,50,15,20,20,15,15,15,60,40
+topshop fans,20,80,40,30,15,10,4,1,60,40
+vacheron constantin fans,80,20,5,10,20,25,25,15,85,15
+valentino fans,30,70,10,20,25,20,15,10,80,20
+valentine's day preppers,40,60,20,30,20,15,10,5,60,40
+yves saint laurent fans,40,60,15,30,20,15,10,10,75,25
+yohji yamamoto fans,40,60,20,30,20,15,10,5,60,40
+vivienne westwood fans,40,60,20,30,20,15,10,5,65,35
+web design aficionados- software,70,30,20,30,25,15,7,3,60,40
+vr experts,80,20,10,40,30,15,5,0,75,25
+xbox fans,70,30,30,35,20,10,4,1,60,40
+xiaomi fans,70,30,20,30,20,15,10,5,60,40
+budget travellers,50,50,20,30,20,15,10,5,60,40
+holiday planners- online reviews,40,60,10,30,25,20,10,5,75,25
+indie film,50,50,15,30,20,15,10,10,60,40
+air jordan fans,80,20,30,35,20,10,4,1,60,40
+job starters,50,50,40,50,10,0,0,0,60,40
+sci-fi film fans,60,40,20,30,20,15,10,5,60,40
+world cinema fans,50,50,10,20,20,20,15,15,60,40
+news junkies- disasters stories,60,40,10,20,20,20,15,15,60,40
+news junkies- international news stories,60,40,10,20,20,20,15,15,60,40
+news junkies- national news stories,55,45,10,20,20,20,15,15,60,40
+news junkies- war and conflicts stories,60,40,10,20,20,20,15,15,50,50
+urban music lovers,60,40,30,30,20,10,5,5,50,50
+variety audio fans,50,50,20,25,20,15,10,10,60,40
+thriller show fans,50,50,20,25,20,15,10,10,60,40
+animation show fans,60,40,30,25,20,15,5,5,50,50
+tv news fans,50,50,10,15,15,20,20,20,60,40
+tv sports fans,60,40,15,20,20,15,15,15,60,40
+female deodorant and antiperspirant intenders,10,90,20,30,20,15,10,5,60,40
+tragicomedy readers,40,60,10,20,20,20,15,15,60,40
+gifting preppers - gift baskets,40,60,10,20,20,20,20,10,60,40
+gifting preppers - greeting cards,40,60,10,20,20,20,15,15,60,40
+vr gamers,80,20,30,40,20,5,3,2,60,40
+treasure hunters,70,30,10,20,20,20,20,10,60,40
+word game players,40,60,10,20,20,15,20,15,60,40
+financial planners- mitigating crisis,60,40,5,15,20,25,20,15,80,20
+financial planners- financial reform,60,40,5,20,25,20,20,10,80,20
+financial planners- financial regulation,60,40,5,20,25,20,20,10,80,20
+financial planners- gas prices,60,40,5,15,20,25,20,15,80,20
+financial planners- interest rates,60,40,5,15,20,25,20,15,80,20
+trainers & coaches,50,50,10,20,20,20,20,10,60,40
+tobacco industry workers,70,30,10,20,25,20,15,10,60,40
+translators & localization experts,40,60,10,30,25,20,10,5,75,25
+transport & logistics professionals,70,30,5,15,20,25,20,15,60,40
+utility service providers,70,30,5,15,20,25,20,15,60,40
+warehouse operations staff,70,30,10,30,25,20,10,5,50,50
+wholesale trade experts,70,30,10,20,25,20,15,10,60,40
+wine & spirits industry workers,60,40,10,30,25,20,10,5,60,40
+wireless tech experts,80,20,10,30,30,20,8,2,60,40
+writers & editors,40,60,10,20,20,20,20,10,60,40
+unemployed professionals,50,50,10,20,20,20,20,10,60,40
+young upwardly mobile,50,50,5,40,35,15,5,0,90,10
+word professionals,40,60,10,20,20,20,20,10,75,25
+time management pros,50,50,10,20,20,20,20,10,60,40
+training experts,50,50,5,20,25,20,20,10,60,40
+vendor relations pros,50,50,10,20,25,20,15,10,60,40
+website developers,70,30,20,30,25,15,7,3,60,40
+windows experts,80,20,10,30,25,20,10,5,60,40
+on the shopping list- vegetarian food,40,60,20,25,20,15,10,10,60,40
+home upgraders- freezers,40,60,5,15,20,20,20,20,60,40
+vauxhall-opel fans,85,15,10,20,25,20,15,10,60,40
+home movers- buying a new home,50,50,10,30,25,20,10,5,60,40
+winter sports participants,60,40,20,30,20,15,10,5,60,40
+budget underwear buyers- male,95,5,20,30,25,15,5,5,50,50
+male underwear and sleepwear - luxury/premium  brands skew,90,10,10,30,25,20,10,5,60,40
+budget underwear buyers- female,5,95,20,30,20,15,10,5,50,50
+female jewelry and watches - luxury/premium  brands skew,10,90,5,15,20,25,20,15,80,20
+nokia  mobiles,60,40,20,30,20,15,10,5,50,50
+b&b holidayers,40,60,5,15,20,25,20,15,60,40
+active day trippers,50,50,10,20,20,20,20,10,60,40
+convenience seekers,50,50,20,30,20,15,10,5,60,40
+topiary enthusiasts,40,60,5,10,15,20,25,25,60,40
+turkish super ligue fans,70,30,20,30,20,15,10,5,50,50
+safari interested,50,50,10,20,20,20,15,15,60,40
+wedding gift buyers,40,60,10,30,25,20,10,5,60,40
+on the shopping list- vegan food,40,60,20,30,20,15,10,5,60,40
+vinyl record collectors,70,30,10,20,20,20,20,10,60,40
+trapshooting buffs,85,15,5,10,15,20,25,25,60,40
+video game makers,80,20,20,40,25,10,4,1,60,40
+city breakers,45,55,20,30,20,15,10,5,60,40
+luxury investments,70,30,5,10,15,20,25,25,85,15
+domestic holidayers,50,50,10,20,20,20,15,15,60,40
+teen drama fans,35,65,40,30,15,10,3,2,50,50
+no fuss holiday fans,50,50,10,20,20,20,15,15,60,40
+5* hotel luxury,50,50,5,15,20,20,20,20,80,20
+historical attraction fans,45,55,10,15,20,20,20,15,60,40
+alternative investors,70,30,10,30,25,20,10,5,80,20
+country club members,65,35,5,10,15,20,25,25,90,10
+couture fashion,40,60,10,20,20,20,20,10,80,20
+high end cruises,50,50,5,10,15,20,25,25,85,15
+high end skiiers,60,40,10,20,25,20,15,10,80,20
+luxury hobbyists,60,40,5,10,15,20,25,25,90,10
+luxury inspiration,40,60,20,30,20,15,10,5,75,25
+luxury neighbourhoods,50,50,5,20,25,20,20,10,90,10
+philanthropists,45,55,5,10,15,20,25,25,60,40
+superlux locations,60,40,5,15,20,25,20,15,85,15
+adventurous eaters,50,50,20,30,20,15,10,5,60,40
+african cuisine fans,50,50,10,20,20,20,15,15,60,40
+ambitious individuals,50,50,20,30,20,15,10,5,60,40
+american cuisine fans,55,45,20,25,20,15,10,10,60,40
+animal and nature lovers,40,60,15,20,20,15,15,15,60,40
+animal rights campaigners,40,60,20,30,20,15,10,5,60,40
+arts and culture show fans,40,60,10,15,20,20,20,15,60,40
+asian cuisine fans,50,50,20,30,20,15,10,5,60,40
+brand trialers,50,50,20,30,20,15,10,5,60,40
+british cuisine fans,50,50,10,20,20,20,15,15,60,40
+british show fans,40,60,10,20,20,20,15,15,60,40
+business learners,60,40,10,30,25,20,10,5,75,25
+business show fans,60,40,10,20,25,20,15,10,75,25
+caffeine addicts,50,50,20,30,20,15,10,5,60,40
+cars and motoring show fans,75,25,10,20,25,20,15,10,60,40
+constantly occupied,50,50,10,20,20,20,15,15,60,40
+creative thinkers,50,50,20,25,20,15,10,10,60,40
+crypto curious,70,30,20,30,25,15,7,3,60,40
+culturally curious,40,60,15,25,20,15,15,10,60,40
+executive car buyers,70,30,5,15,20,25,20,15,85,15
+exhibition attendees,40,60,10,20,20,20,15,15,60,40
+fair trade prioritisers,40,60,10,20,20,20,15,15,75,25
+faith-based show fans,40,60,5,10,15,20,25,25,60,40
+fashion and beauty show fans,30,70,20,30,20,15,10,5,60,40
+feminists,30,70,20,30,20,15,10,5,60,40
+financially astute savers,60,40,5,20,25,20,20,10,80,20
+"food, drink and cooking show fans",40,60,10,20,20,20,15,15,60,40
+health and fitness show fans,40,60,15,25,20,15,15,10,60,40
+health concerned- hair loss,60,40,5,15,20,25,20,15,60,40
+home and garden show fans,40,60,5,10,15,20,25,25,60,40
+hypochondriacs,40,60,10,15,20,20,20,15,60,40
+independent spirits,60,40,20,30,20,15,10,5,60,40
+inspiration hunters,40,60,20,30,20,15,10,5,65,35
+jeans wearers,50,50,20,25,20,15,10,10,60,40
+known brand prioritisers,50,50,10,20,20,20,15,15,60,40
+life guidance seekers,40,60,20,30,20,15,10,5,60,40
+monarchists,50,50,10,15,20,20,20,15,60,40
+new car buyers,50,50,10,20,20,20,20,10,60,40
+on the pulse- innovation,60,40,20,30,20,15,10,5,75,25
+on the shopping list- crisps,50,50,20,20,20,15,15,10,60,40
+politics show fans,60,40,5,10,15,20,25,25,60,40
+privacy prioritisers,50,50,10,20,20,20,15,15,60,40
+quality seekers,45,55,10,20,20,20,15,15,75,25
+reggae music fans,55,45,20,30,20,15,10,5,60,40
+rest and relaxation prioritisers,40,60,10,20,20,20,15,15,60,40
+risk adverse,40,60,10,15,20,20,20,15,60,40
+risk takers,60,40,20,30,20,15,10,5,60,40
+russian/eastern european cuisine fans,50,50,10,20,20,20,15,15,60,40
+scandinavian cuisine fans,50,50,10,20,20,20,15,15,60,40
+science and nature show fans,50,50,10,15,20,20,20,15,60,40
+snackers,50,50,20,20,20,15,15,10,60,40
+sport show fans,60,40,15,20,20,15,15,15,50,50
+sports car buyers,80,20,10,20,25,20,15,10,60,40
+subscription box members,40,60,20,30,20,15,10,5,60,40
+time poor people,50,50,10,20,25,20,15,10,60,40
+traditionalists,50,50,5,10,15,20,25,25,60,40
+trend setters,40,60,30,35,20,10,4,1,75,25
+true crime fans,40,60,10,20,20,20,20,10,60,40
+tv sitcom fans,50,50,20,20,20,15,15,10,60,40
+unique product prioritisers,40,60,20,30,20,15,10,5,75,25
+us show fans,50,50,15,20,20,15,15,15,60,40
+vpn users,60,40,20,30,20,15,10,5,60,40
+yoga fans,30,70,10,20,25,20,15,10,60,40
+yoga fans,30,70,10,20,25,20,15,10,60,40

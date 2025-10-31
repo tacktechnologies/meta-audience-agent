@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+pandas
+numpy
+python-dotenv
+openai>=1.0.0
+pinecone-client>=4.0.0
+mysql-connector-python
+cryptography
+psutil
