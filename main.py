@@ -690,20 +690,22 @@ def amazon_demo(req: AudienceReq):
     except Exception as e:
         raise HTTPException(status_code=500, detail={"error": str(e), "trace": traceback.format_exc()})
 
+from fastapi import Query
 
-from typing import Optional
-@app.post("/relevance")
 @app.get("/relevance")
-
-def relevance_endpoint(req: Optional[AudienceReq] = None, audience: Optional[str] = None):
+def relevance(audience: str = Query(..., description="Audience description for relevance analysis")):
+    """
+    GET /relevance?audience=rugby
+    Runs the full relevance pipeline for a given audience description.
+    """
     try:
-        desc = req.desc if req else (audience or "")
+        desc = audience.strip()
         if not desc:
-            raise ValueError("Missing audience description")
+            raise ValueError("Missing audience parameter (?audience=)")
 
         final_audience_profile = run_pipeline(desc)
         engine = get_engine()
-        update_period = "2024-10"
+        update_period = "2024-10"  # mirrors your stub
         rel = build_relevance_table(final_audience_profile, engine, update_period)
 
         return {
@@ -717,6 +719,7 @@ def relevance_endpoint(req: Optional[AudienceReq] = None, audience: Optional[str
             status_code=500,
             detail={"error": str(e), "trace": traceback.format_exc()}
         )
+
 
 @app.get("/")
 def root():
