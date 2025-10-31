@@ -6,7 +6,8 @@ pandas
 numpy
 python-dotenv
 openai>=1.0.0
-pinecone-client>=4.0.0
+pinecone
+pinecone-client
 mysql-connector-python
 cryptography
 psutil
