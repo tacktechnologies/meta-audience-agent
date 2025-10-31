@@ -71,11 +71,7 @@ def _require_env(var: str, value: str | None):
     if not value or not str(value).strip():
         raise RuntimeError(f"Missing required environment variable: {var}")
 
-_require_env("OPENAI_API_KEY/OPENAIKEY", OPENAI_API_KEY)
-_require_env("PINECONE", pineconeKey)
-_require_env("DBUSER", user)
-_require_env("DBPASSWORD", passw)
-_require_env("DBHOST", host)
+
 
 # ---------------------- OpenAI ----------------------
 import openai
