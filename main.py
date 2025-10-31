@@ -690,20 +690,33 @@ def amazon_demo(req: AudienceReq):
     except Exception as e:
         raise HTTPException(status_code=500, detail={"error": str(e), "trace": traceback.format_exc()})
 
+
+from typing import Optional
 @app.post("/relevance")
-def relevance(req: AudienceReq):
+@app.get("/relevance")
+
+def relevance_endpoint(req: Optional[AudienceReq] = None, audience: Optional[str] = None):
     try:
-        final_audience_profile = run_pipeline(req.desc)
+        desc = req.desc if req else (audience or "")
+        if not desc:
+            raise ValueError("Missing audience description")
+
+        final_audience_profile = run_pipeline(desc)
         engine = get_engine()
-        update_period = "2024-10"  # mirrors your stub
+        update_period = "2024-10"
         rel = build_relevance_table(final_audience_profile, engine, update_period)
+
         return {
-            "desc": req.desc,
+            "desc": desc,
             "rows": int(len(rel)),
             "results": df_to_records(rel)
         }
+
     except Exception as e:
-        raise HTTPException(status_code=500, detail={"error": str(e), "trace": traceback.format_exc()})
+        raise HTTPException(
+            status_code=500,
+            detail={"error": str(e), "trace": traceback.format_exc()}
+        )
 
 @app.get("/")
 def root():
