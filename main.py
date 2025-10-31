@@ -108,7 +108,7 @@ index = pc.Index(PINECONE_INDEX)
 # ---------------------- DB ----------------------
 def get_engine() -> Engine:
     return create_engine(
-        f"mysql+mysqlconnector://{user}:{passw}@{host}:3306/{database}",
+        f"mysql+mysqlconnector://{user}:{passw}@{host}:3306/",
         echo=False
     )
 
