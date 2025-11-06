@@ -615,7 +615,7 @@ def build_relevance_table(final_audience_profile: pd.DataFrame, engine: Engine, 
     # ✅ Final pretty formatting & column order
     FinalTable = FinalTable.assign(
         Percentage=lambda df: df["Percentage"].map("{:.1f}%".format),
-        Index=lambda df: "i" + df["Index"].round().astype(int).astype(str)
+        Index=lambda df: df["Index"].round().astype(int)
     )
     
     FinalTable = FinalTable.loc[
@@ -705,9 +705,9 @@ def relevance(audience: str = Query(..., description="Audience description for r
 
         final_audience_profile = run_pipeline(desc)
         engine = get_engine()
-        update_period = "2024-10"  # mirrors your stub
+        update_period = "2024-10"  
         rel = build_relevance_table(final_audience_profile, engine, update_period)
-
+        # SUBSET DF
         return {
             "desc": desc,
             "rows": int(len(rel)),
