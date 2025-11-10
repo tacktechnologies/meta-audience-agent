@@ -743,7 +743,7 @@ def relevance(
             rel = rel.sort_values("Percentage_num", ascending=False, kind="mergesort")
         else:  # OrderBy.relevance
             rel = rel.sort_values("Relevance_num", ascending=False, kind="mergesort")
-
+        rel = rel.head(50)
         # --- drop all temporary and unwanted columns ---
         rel = rel.drop(
             columns=[
