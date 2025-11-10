@@ -692,11 +692,27 @@ def amazon_demo(req: AudienceReq):
 
 from fastapi import Query
 
+from enum import Enum
+from fastapi import Query
+
+class OrderBy(str, Enum):
+    relevance = "relevance"
+    index = "index"
+    percentage = "percentage"
+
 @app.get("/relevance")
-def relevance(audience: str = Query(..., description="Audience description for relevance analysis")):
+def relevance(
+    audience: str = Query(..., description="Audience description for relevance analysis"),
+    order_by: OrderBy = Query(
+        OrderBy.relevance,
+        description="Order results by one of: relevance, index, or percentage",
+    ),
+):
     """
-    GET /relevance?audience=rugby
+    GET /relevance?audience=rugby&order_by=index
     Runs the full relevance pipeline for a given audience description.
+    Orders results by the chosen field (default: relevance).
+    The 'Relevance' column is used for sorting but never included in output.
     """
     try:
         desc = audience.strip()
@@ -705,21 +721,52 @@ def relevance(audience: str = Query(..., description="Audience description for r
 
         final_audience_profile = run_pipeline(desc)
         engine = get_engine()
-        update_period = "2024-10"  
+        update_period = "2024-10"
         rel = build_relevance_table(final_audience_profile, engine, update_period)
-        # SUBSET DF
+
+        # --- numeric conversions for safe sorting ---
+        rel["Relevance_num"] = pd.to_numeric(rel.get("Relevance"), errors="coerce")
+        rel["Index_num"] = pd.to_numeric(rel.get("Index"), errors="coerce")
+
+        if "Percentage" in rel.columns:
+            rel["Percentage_num"] = (
+                rel["Percentage"].astype(str).str.replace("%", "", regex=False)
+            )
+            rel["Percentage_num"] = pd.to_numeric(rel["Percentage_num"], errors="coerce")
+        else:
+            rel["Percentage_num"] = np.nan
+
+        # --- sort by chosen field (descending) ---
+        if order_by == OrderBy.index:
+            rel = rel.sort_values("Index_num", ascending=False, kind="mergesort")
+        elif order_by == OrderBy.percentage:
+            rel = rel.sort_values("Percentage_num", ascending=False, kind="mergesort")
+        else:  # OrderBy.relevance
+            rel = rel.sort_values("Relevance_num", ascending=False, kind="mergesort")
+
+        # --- drop all temporary and unwanted columns ---
+        rel = rel.drop(
+            columns=[
+                "Relevance_num",
+                "Index_num",
+                "Percentage_num",
+                "Relevance",  # ✅ always dropped, even if used for sorting
+            ],
+            errors="ignore",
+        )
+
         return {
             "desc": desc,
+            "order_by": order_by,
             "rows": int(len(rel)),
-            "results": df_to_records(rel)
+            "results": df_to_records(rel),
         }
 
     except Exception as e:
         raise HTTPException(
             status_code=500,
-            detail={"error": str(e), "trace": traceback.format_exc()}
+            detail={"error": str(e), "trace": traceback.format_exc()},
         )
-
 
 @app.get("/")
 def root():
